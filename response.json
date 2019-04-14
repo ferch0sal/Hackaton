@@ -1,0 +1,3480 @@
+[
+    {
+        "id": 112637,
+        "region_id": 21,
+        "region_name": "Puebla",
+        "current_salary": "10,000 a 15,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Operador de piezas especiales",
+                "place": "Audi Mexico",
+                "description": "Actualmente apoyo al área de montaje en la creación de la camioneta Audi Q5",
+                "salary_range": "5,000 a 10,000",
+                "start_at": "2016-08-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "",
+                "place": "TUPE\n(Tecnico Universal de Planta Exterior",
+                "description": "Soporte Tecnico",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "INFORMATICA",
+                "description": "Mantenimiento Correctieo y preeentieo de software y hardware asi como\nmantenimiento de dispositieos móeiles y roboticos",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Redes P2P",
+                "level": "Profesional"
+            },
+            {
+                "name": "Redes Inalámbricas",
+                "level": "Profesional"
+            },
+            {
+                "name": "Capacitación y Desarrollo",
+                "level": "Profesional"
+            },
+            {
+                "name": "C++",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Intermedio"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "ciencias de la computación - Benemérita",
+                "place": "Universidad Autónoma Puebla"
+            },
+            {
+                "kind": "Certificación",
+                "title": "",
+                "place": ""
+            }
+        ],
+        "updated_at": "2019-04-14 11:17:56"
+    },
+    {
+        "id": 112523,
+        "region_id": 21,
+        "region_name": "Puebla",
+        "current_salary": "15,000 a 20,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "ingeniero jr.",
+                "place": "Faurecia",
+                "description": "",
+                "salary_range": "10,000 a 15,000",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "ingeniero jr.",
+                "place": "BUAP",
+                "description": "Experiencia práctica y teórica en el área de las comunicaciones, altas frecuencias, fibra óptica.",
+                "salary_range": "5,000 a 10,000",
+                "start_at": "2018-04-01",
+                "end_at": "",
+                "current_job": 1
+            }
+        ],
+        "skills": [
+            {
+                "name": "Capacitación y Desarrollo",
+                "level": "Profesional"
+            },
+            {
+                "name": "Administración de Proyectos",
+                "level": "Profesional"
+            },
+            {
+                "name": "Redes Inalámbricas",
+                "level": "Profesional"
+            },
+            {
+                "name": "Oracle EBS",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Intermedio"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Pasante",
+                "title": "Lic. En ciencias de la electrónica",
+                "place": "Benemérita Universidad Autónoma de Puebla"
+            }
+        ],
+        "updated_at": "2019-04-14 12:01:07"
+    },
+    {
+        "id": 117805,
+        "region_id": 15,
+        "region_name": "Jalisco",
+        "current_salary": "20,000 a 25,000",
+        "birthday": "1993-01-05",
+        "experiences": [
+            {
+                "job": "Full stack developer",
+                "place": "gaimpresos",
+                "description": "desarrollo de software,\nadministrador de servidores linux,\ndesarrollador web,\n\ntecnologias:\nubuntu server,\nlaravel, slimframework, phalcon,\nvuejs, reactjs",
+                "salary_range": "10,000 a 15,000",
+                "start_at": "2017-02-01",
+                "end_at": "2019-01-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Diseño de Software",
+                "level": "Senior"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Español",
+                "level": "Lengua Nativa"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Pasante",
+                "title": "Ingenieria en Informatica",
+                "place": "CUCEI – Centro Universitario de Ciencias Exactas e Ingeniería"
+            }
+        ],
+        "updated_at": "2019-04-14 12:00:54"
+    },
+    {
+        "id": 113237,
+        "region_id": 11,
+        "region_name": "Estado de México",
+        "current_salary": "10,000 a 15,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Ingeniero de Implementación",
+                "place": "Punto de integración",
+                "description": "•\tConfiguración de equipos Fortinet como Fortigate, Fortianalyzer FortiAps, monitoreo de básico de correo en FortiMail. Configuración de perfiles de seguridad, filtrado web, Antivirus, control de aplicaciones, control de banda ancha, configuración de políticas de seguridad, configuración de Vlan, VPN ipsec y SSL, visualización de logs y generación de reportes en Fortianalyzer.\n\n•\tConfiguración de switches cisco.\n\n•\tAtención a usuarios vía remota, telefónica y en sitio, instalación de Esxi y creación de máquinas virtuales. Mantenimiento Preventivo y correctivo a servidores y a equipo de cómp",
+                "salary_range": "5,000 a 10,000",
+                "start_at": "2014-02-01",
+                "end_at": "2019-02-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Firewalls",
+                "level": "Profesional"
+            },
+            {
+                "name": "Redes Inalámbricas",
+                "level": "Profesional"
+            },
+            {
+                "name": "Auditoría de Seguridad",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Básico"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Tecnologías de la Información y Comunicación",
+                "place": "Instituto Tecnológico de Tlalnepantla Generación"
+            }
+        ],
+        "updated_at": "2019-04-14 11:58:04"
+    },
+    {
+        "id": 117774,
+        "region_id": 27,
+        "region_name": "Tabasco",
+        "current_salary": "5,000 a 10,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Desarrolador web",
+                "place": "ITSR",
+                "description": "Centro de Desarrollo de Software de ISC asignado a desarrollar un sistema para las actividades extraescolares del ITSR, usando el lenguaje Java NetBeans 8.2 y el framework JSF Primefaces 6.1, códigos HTML5 jalando recursos desde CSS, JQuery y JavaScript, uso de SQL, creación de reportes en iReport. El desarrollo fue basado en la metodología Scrum.",
+                "salary_range": "1,000 a 3,000",
+                "start_at": "2018-08-01",
+                "end_at": "2019-03-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Java",
+                "level": "Profesional"
+            },
+            {
+                "name": "Análisis de Requerimientos",
+                "level": "Profesional"
+            },
+            {
+                "name": "Diseño Web",
+                "level": "Profesional"
+            },
+            {
+                "name": "UI",
+                "level": "Profesional"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés simplificado",
+                "level": "Nivel Básico"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Pasante",
+                "title": "Ingenieria en sistemas computacionales.",
+                "place": "Instituto Tecnológico Superior de los Rios"
+            }
+        ],
+        "updated_at": "2019-04-14 11:51:56"
+    },
+    {
+        "id": 76831,
+        "region_id": 22,
+        "region_name": "Querétaro",
+        "current_salary": "",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Líder de análisis de pruebas",
+                "place": "UELIT",
+                "description": "- Planeación, ejecución y seguimiento de las pruebas de Software del Banco Santander UK\n- Análisis de Casos de Pruebas.\n- Diseño de Casos de Pruebas en ALM\n- Generación del Test Suite en ALM\n- Generación del Data Sheet en ALM\n- Ejecución de los casos de pruebas.\n- Seguimiento de la matriz de pruebas\n- Seguimiento a las necesidades del banco Santaner UK, en conjunto con el equipo de trabajo.\n- Seguimiento, desarrollo y mantenimiento de aplicaciones web y móviles para channels Santander",
+                "salary_range": "25,000 a 30,000",
+                "start_at": "2016-11-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "Analista / Líder QA - Corporativo Banco Santander",
+                "place": "UELIT",
+                "description": "Proyectos:\n - Channels - Banco Santander Reino Unido\n - Banca Privada - Banco Santander México\n - Seguros Segneurona - Banco Santander México\n\n- Planeación, ejecución y seguimiento de las pruebas de Software del Banco Santander UK\n- Análisis de Casos de Pruebas.\n- Diseño de Casos de Pruebas en ALM\n- Generación del Test Suite en ALM\n- Generación del Data Sheet en ALM\n- Ejecución de los casos de pruebas.\n- Seguimiento de la matriz de pruebas\n- Seguimiento a las necesidades del banco Santaner UK, en conjunto con el equipo de trabajo.\n- Seguimiento, desarrollo y mantenimiento de aplicaciones web y móviles para channels Santander",
+                "salary_range": "",
+                "start_at": "2016-11-01",
+                "end_at": "",
+                "current_job": 1
+            }
+        ],
+        "skills": [
+            {
+                "name": "Testing/QA",
+                "level": "Experto"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Básico"
+            }
+        ],
+        "educations": [],
+        "updated_at": "2019-04-14 11:40:50"
+    },
+    {
+        "id": 113257,
+        "region_id": 27,
+        "region_name": "Tabasco",
+        "current_salary": "3,000 a 5,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Prof de informatica",
+                "place": "",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "Profesor de Informática",
+                "place": "Preparatoria nueva generación José marti",
+                "description": "Clases de ofimatica, mantenimiento preventivo y correctivo de pc, clases de TIC , desarrollo de páginas web. (Html,php,appserv,mysql)",
+                "salary_range": "1,000 a 3,000",
+                "start_at": "2018-08-01",
+                "end_at": "2018-12-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "PHP",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "Redes Inalámbricas",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "Bases de Datos Relacionales",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "Auditoría de Seguridad",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Básico"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Pasante",
+                "title": "ing. tecnologias de la informacion y comunicacion",
+                "place": "Universidad Tecnológica de Tabasco"
+            }
+        ],
+        "updated_at": "2019-03-06 09:01:19"
+    },
+    {
+        "id": 117775,
+        "region_id": 2,
+        "region_name": "Baja California Norte",
+        "current_salary": "20,000 a 25,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "ingeniero de procesos",
+                "place": "Seyco joist",
+                "description": "Supervisor de personal, mejoras",
+                "salary_range": "15,000 a 20,000",
+                "start_at": "2018-04-01",
+                "end_at": "2019-04-01",
+                "current_job": 0
+            },
+            {
+                "job": "Supervisor",
+                "place": "Famsa de México",
+                "description": "Manejo de personal\nPlanificación trabajo del día\nManejo de objeciones y cierre de ventas\nIdentificación de necesidades del cliente\nManejo de expedientes\n                      · Negociación y persuasión\n                      · Créditos iniciales",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "Ingeniero de Procesos",
+                "place": "Seyco Joist",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "Ingeniero de Procesos",
+                "place": "Seyco joist",
+                "description": "Supervisor de producción\nProyectos\nBalanceo de líneas",
+                "salary_range": "15,000 a 20,000",
+                "start_at": "2018-07-01",
+                "end_at": "2019-03-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Diseño Web",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "JD Edwards",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "Ventas TI",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Español",
+                "level": "Lengua Nativa"
+            },
+            {
+                "name": "Inglés",
+                "level": "Nivel Intermedio"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Ingeniería Mecatrónica",
+                "place": "Instituto Tecnologico de Mexicali"
+            }
+        ],
+        "updated_at": "2019-04-14 11:32:28"
+    },
+    {
+        "id": 72674,
+        "region_id": 9,
+        "region_name": "Ciudad de México",
+        "current_salary": "40,000 a 45,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Product Owner",
+                "place": "Sabadell",
+                "description": "\tResponsable de robustecer y mejorar la aplicación móvil.\n\tMantener el Backlog actualizado y priorizado.\n\tAsegurar que el equipo conozca la visión del negocio y se aporte valor. \n\tAsegurar que la experiencia del cliente sea la óptima.",
+                "salary_range": "35,000 a 40,000",
+                "start_at": "2018-05-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "Product Owner App Móvil banco Sabadell",
+                "place": "Banco Sabadell",
+                "description": "Scrum product owner encargada de la aplicación móvil del banco Sabadell para bancos particulares. Trabajamos bajo SCRUM.",
+                "salary_range": "35,000 a 40,000",
+                "start_at": "2018-05-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "Product Owner App Móvil banco Sabadell",
+                "place": "Banco Sabadell México",
+                "description": "",
+                "salary_range": "",
+                "start_at": "2018-05-01",
+                "end_at": "",
+                "current_job": 1
+            }
+        ],
+        "skills": [
+            {
+                "name": "Administración de Proyectos",
+                "level": "Senior"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Intermedio"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Certificación",
+                "title": "Scrum Peoduct Owner",
+                "place": "Scrum Alliance"
+            }
+        ],
+        "updated_at": "2019-04-14 11:31:13"
+    },
+    {
+        "id": 115858,
+        "region_id": 9,
+        "region_name": "Ciudad de México",
+        "current_salary": "10,000 a 15,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Proyectista eléctrico",
+                "place": "Sistemas especiales de Ingeniería",
+                "description": "Diseño de instalaciones eléctricas de media y baja tensión para; centros comerciales, hoteles, departamentos, casa habitación, etc. En base a la norma mexicana, así como memorias de cálculo en Excel",
+                "salary_range": "10,000 a 15,000",
+                "start_at": "2018-08-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "Analista de Monitoreo",
+                "place": "GRUPO FINANCIERO INBURSA",
+                "description": "Monitoreo y soporte vía remota de la red del grupo financiero mediante sistema de tickets.",
+                "salary_range": "5,000 a 10,000",
+                "start_at": "2017-04-01",
+                "end_at": "2017-11-01",
+                "current_job": 0
+            },
+            {
+                "job": "Apoyo a grupos de trabajo",
+                "place": "inbursa",
+                "description": "Monitoreo, análisis y solución de problemas vía remota de las redes del grupo financiero mediante sistema de tickets.",
+                "salary_range": "5,000 a 10,000",
+                "start_at": "2017-04-01",
+                "end_at": "2017-11-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Redes P2P",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "UI",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "Firewalls",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Intermedio"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "",
+                "place": ""
+            },
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Ingeniero en comunicaciones y electronica",
+                "place": "Instituto Politécnico Nacional ESIME Cul."
+            }
+        ],
+        "updated_at": "2019-04-14 11:28:59"
+    },
+    {
+        "id": 112416,
+        "region_id": 9,
+        "region_name": "Ciudad de México",
+        "current_salary": "5,000 a 10,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Soporte Técnico",
+                "place": "Klema Importaciones S.A. de C.V.",
+                "description": "Encargado del mantenimiento del equipo de cómputo, aclaración de dudas en software o incidentes con algún software.",
+                "salary_range": "1,000 a 3,000",
+                "start_at": "2018-03-01",
+                "end_at": "2019-01-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Análisis de Requerimientos",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Intermedio"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Cursando",
+                "title": "Ingenieria en Sistemas Computacionales 7° Semestre",
+                "place": "UNITEC SUR"
+            },
+            {
+                "kind": "Certificación",
+                "title": "Microsoft Certified Professional",
+                "place": "Cetis 49"
+            }
+        ],
+        "updated_at": "2019-04-14 11:25:26"
+    },
+    {
+        "id": 112746,
+        "region_id": 15,
+        "region_name": "Jalisco",
+        "current_salary": "15,000 a 20,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Analista de capital humano",
+                "place": "Grupo Zeyco",
+                "description": "• Reclutamiento y selección de personal operativo y administrativo (Aplicación de exámenes psicométricos) \n• Alta de trabajadores en sistema \n• Capacitación al personal en Seguridad e Higiene \n• Seguimiento en evaluaciones de periodo de prueba\n*indicadores\n* Documentación de procedimientos de RH \n* Evaluaciones y calificaciones de personal \n* Reclutamiento a todos los niveles",
+                "salary_range": "10,000 a 15,000",
+                "start_at": "2018-01-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "Técnico de capacitación",
+                "place": "Flex",
+                "description": "Encargado de capacitación de un edificio\nPlanes anuales de capacitación\nCertificación y evaluación \nCreación de departamento",
+                "salary_range": "10,000 a 15,000",
+                "start_at": "2017-01-01",
+                "end_at": "2018-09-01",
+                "current_job": 0
+            },
+            {
+                "job": "auxiliar de recursos humanos",
+                "place": "Flex",
+                "description": "Reclutamiento masivo \nControl de expedientes\nInducción a nuevos empleados",
+                "salary_range": "5,000 a 10,000",
+                "start_at": "2014-09-01",
+                "end_at": "2017-12-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Reclutamiento",
+                "level": "Experto"
+            },
+            {
+                "name": "Capacitación y Desarrollo",
+                "level": "Senior"
+            },
+            {
+                "name": "Adminstración de Personal",
+                "level": "Senior"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Básico"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Licenciado en contaduris",
+                "place": "Universidad tepic"
+            }
+        ],
+        "updated_at": "2019-04-14 11:14:32"
+    },
+    {
+        "id": 112886,
+        "region_id": 14,
+        "region_name": "Hidalgo",
+        "current_salary": "10,000 a 15,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "IT Teacher",
+                "place": "Universidad Tecnológica de la Zona Metropolitana del Valle de México",
+                "description": "Profesora de contenido en la UTVAM donde imparto la materia de IT essentials",
+                "salary_range": "5,000 a 10,000",
+                "start_at": "2019-01-01",
+                "end_at": "",
+                "current_job": 1
+            }
+        ],
+        "skills": [
+            {
+                "name": "Administración de Proyectos",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "Bases de Datos Relacionales",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "Diseño Web",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Intermedio"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Pasante",
+                "title": "Ingeniero en Tecnologías de Información y Comunicación",
+                "place": "Universidad Tecnológica de la Zona Metropolitana del Valle de México"
+            }
+        ],
+        "updated_at": "2019-04-14 11:12:32"
+    },
+    {
+        "id": 108631,
+        "region_id": 9,
+        "region_name": "Ciudad de México",
+        "current_salary": "20,000 a 25,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "PRESTADOR DE SERVICIO SOCIAL",
+                "place": "Centro de Desarrollo Aeroespacial",
+                "description": "Diseño y construcción de prototipo de enlace óptico para comunicaciones satelitales. \nApoyo en generación de presupuestos para diversos proyectos.",
+                "salary_range": "1,000 a 3,000",
+                "start_at": "2018-06-01",
+                "end_at": "2019-01-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Diseño de Software",
+                "level": "Profesional"
+            },
+            {
+                "name": "C++",
+                "level": "Profesional"
+            },
+            {
+                "name": "Software Embebido",
+                "level": "Profesional"
+            },
+            {
+                "name": "Python",
+                "level": "Profesional"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Intermedio"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Pasante",
+                "title": "Ingeniería en Comunicaciones y  Electronica",
+                "place": "ESCUELA SUPERIOR DE INGENIERIA MECANICA Y ELECTRICA"
+            },
+            {
+                "kind": "Diplomado/Curso",
+                "title": "Machine Learning",
+                "place": "Coursera"
+            }
+        ],
+        "updated_at": "2019-03-21 11:34:40"
+    },
+    {
+        "id": 113091,
+        "region_id": 5,
+        "region_name": "Chiapas",
+        "current_salary": "20,000 a 25,000",
+        "birthday": "",
+        "experiences": [],
+        "skills": [
+            {
+                "name": "Analista de Sistemas",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Pasante",
+                "title": "Ingenieria en sistemas computacionales.",
+                "place": "Sistema educativo universitario azteca tapachula"
+            }
+        ],
+        "updated_at": "2019-04-14 11:05:54"
+    },
+    {
+        "id": 80728,
+        "region_id": 9,
+        "region_name": "Ciudad de México",
+        "current_salary": "",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "",
+                "place": "",
+                "description": "",
+                "salary_range": "",
+                "start_at": "2001-01-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "",
+                "place": "",
+                "description": "",
+                "salary_range": "",
+                "start_at": "2001-01-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "",
+                "place": "",
+                "description": "",
+                "salary_range": "",
+                "start_at": "2001-01-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "Director de Sistemas",
+                "place": "GS",
+                "description": "Crear área en el grupo de storage y backup (almacenamiento y respaldo)\n        Dirigir área en el grupo de storage y backup (almacenamiento y respaldo)\n       Organizar los sistemas de almacenamiento de datos, administrar y dimensionar.\n       Organizar los sistemas de respaldo conforme a regulaciones y/o necesidades específicas de recuperación\n       Actualización y mejoras a sistemas de almacenamiento storage SAN, NAS, DAS, Backup, Cloud",
+                "salary_range": "100,000 a 125,000",
+                "start_at": "2013-06-17",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "Gestor Cloud",
+                "place": "NBA Systems SA de CV",
+                "description": "Cloud Maintenance (administración de servicios en la nube)\nIntegrador de infraestructura en la nube.\nColaborar en la arquitectura de la nube.",
+                "salary_range": "45,000 a 50,000",
+                "start_at": "2018-08-01",
+                "end_at": "",
+                "current_job": 1
+            }
+        ],
+        "skills": [
+            {
+                "name": "Big Data",
+                "level": "Experto"
+            },
+            {
+                "name": "Administración de Servidores Unix",
+                "level": "Experto"
+            },
+            {
+                "name": "Administración de Proyectos",
+                "level": "Experto"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Avanzado"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Lic.Informatica",
+                "place": "IMEC"
+            }
+        ],
+        "updated_at": "2019-04-14 11:04:46"
+    },
+    {
+        "id": 117785,
+        "region_id": 22,
+        "region_name": "Querétaro",
+        "current_salary": "3,000 a 5,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Administrativo",
+                "place": "AXA Seguros",
+                "description": "Gestión de Cuentas\nControl y Administración\nImplementación de Soluciones y Procesos\nDesarrollo",
+                "salary_range": "5,000 a 10,000",
+                "start_at": "2014-03-01",
+                "end_at": "2018-03-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Community Manager",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "HTML5",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "SEO - SEM",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Intermedio"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Mercadotecnia Digital - Online\n- CSS3 Básico\n                                                      Varsovia 36",
+                "place": ""
+            },
+            {
+                "kind": "Estudios Universitarios - Cursando",
+                "title": "Cursando",
+                "place": "UMOV Academy"
+            }
+        ],
+        "updated_at": "2019-04-14 11:04:05"
+    },
+    {
+        "id": 117771,
+        "region_id": 12,
+        "region_name": "Guanajuato",
+        "current_salary": "10,000 a 15,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Analista Técnico",
+                "place": "Secretaria de seguridad pública del estado de Guanajuato",
+                "description": "Manejo de tecnologías de la información para el desempeño y apoyo en las actividades de seguridad pública de campo, manejando plataformas de monitoreo de cámaras, bases de datos, y dispositivos de comunicación radio Motorola y gemic",
+                "salary_range": "3,000 a 5,000",
+                "start_at": "2015-01-01",
+                "end_at": "2016-10-01",
+                "current_job": 0
+            },
+            {
+                "job": "Técnico sistemas",
+                "place": "Sicbasa",
+                "description": "Atención al cliente como soporte técnico, implementación de redes, telefonía ip, e instalación de CCTV, administración de dominio y correo outlook",
+                "salary_range": "3,000 a 5,000",
+                "start_at": "2016-11-01",
+                "end_at": "2018-10-01",
+                "current_job": 0
+            },
+            {
+                "job": "Soporte Tecnico en sitio",
+                "place": "PM ingeniería y Construcción S.A de C.V",
+                "description": "Soporte técnico al usuario, administración de servidor de dominio y correo empresarial Outlook, configuracion e implementación de tegnologia ubiquiti. Atención e instalación de CCTV  implementación de cableado estructurado.",
+                "salary_range": "3,000 a 5,000",
+                "start_at": "2018-10-01",
+                "end_at": "",
+                "current_job": 1
+            }
+        ],
+        "skills": [
+            {
+                "name": "Redes Inalámbricas",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Básico"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Pasante",
+                "title": "ING en sistemas computacionales",
+                "place": "Instituto tecnológico superior de guanajuato"
+            }
+        ],
+        "updated_at": "2019-04-14 10:42:10"
+    },
+    {
+        "id": 109270,
+        "region_id": 15,
+        "region_name": "Jalisco",
+        "current_salary": "35,000 a 40,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Gerente Regional Norte",
+                "place": "https://www.cintesis.com.mx/",
+                "description": "•\tDirigir la operación de sucursales de acuerdo a la regionalización del negocio.\n•\tCoordinar y dar seguimiento a la estrategia comercial de acuerdo a la expansión.\n•\tResponsable de la apertura de 25 oficinas de un total de 50 en el país.\n•\tSupervisión de 25 oficinas de 50 en diferentes estados.\n•\tCoordinación de grupos grandes de trabajo (Puestos gerenciales, mandos medios y operativos).\n•\tManejo de personal y Formación de Equipos de Trabajo.\n•\tSupervisar las actividades de los ejecutivos, supervisores e ingenieros.\n•\tPlaneación estratégica de ventas y métricas por oficina. \n•\tControl de gastos, facturación, compras, manejo de personal, capacitación en cada oficina.\n•\tGestionar, controlar y apego a procesos estandarizados.\n•\tRevisar y analizar las ventas y estadísticas de cada oficina.\n•\tConocimiento de mercado (Agentes Aduanales).\n•\tVisitas periódicas a las 25 oficinas a mí cargo. \n•\tAtención al cliente.",
+                "salary_range": "20,000 a 25,000",
+                "start_at": "2001-01-01",
+                "end_at": "2006-12-01",
+                "current_job": 0
+            },
+            {
+                "job": "General de Soporte Técnico.",
+                "place": "https://www.cintesis.com.mx/",
+                "description": "•\tCoordinar y supervisar la infraestructura de comunicaciones con las autoridades que intervienen en el proceso Aduanero en el país.\n•\tBrindar atención de calidad a clientes y socios de la empresa.\n•\tAdministrar las actividades del personal.\n•\tGarantizar el cumplimiento de los objetivos de los proyectos en tiempo y forma.\n•\tIdentificar y desarrollar oportunidades comerciales.\n•\tDirigir a los Consultores Foráneos. \n•\tDiseño de soluciones de consultoría.\n•\tDefinir, implementar y operar los procesos de Consultoría.\n•\tIntegrar presupuestos técnico económicos.\n•\tDar seguimiento administrativo a la integración de equipos de trabajo y notificación de incidencias de los equipos al área correspondiente.\n•\tDesarrollo de soluciones con socios de negocio.\n•\tRevisar bitácoras de sistemas y estadísticas de uso de recursos, para detectar anomalías en los sistemas que forman parte de la infraestructura.\n•\tImplementar las nuevas versiones de software, para mantenerlos actualizados y en nivel óptimo de operación.\n•\tRealizar respaldos de Sistemas Operativos utilizando las herramientas del sistema, para contar con un medio de recuperación en caso de desastre.\n•\tImplementar los estándares de seguridad de los Sistemas Operativos, para garantizar el cumplimiento de los mismos.\n•\tAdministrar herramientas de seguridad implementadas, para dar seguimiento a los incidentes de seguridad detectados.\n•\tRealizar el análisis de vulnerabilidades sobre la plataforma TI, para prevenir riesgos que puedan comprometer la seguridad de la información.\n•\tSupervisar el desarrollo y documentación de controles para la detección y prevención del acceso no autorizado y la protección contra software malicioso, garantizando la seguridad de los datos y los servicios conectados en las redes de la empresa.\n•\tMonitorear el rendimiento y actividades realizadas en los equipos de cómputo personales, con la finalidad de identificar cambios no autorizados, problemas de performance para ser notificados a soporte técnico.",
+                "salary_range": "25,000 a 30,000",
+                "start_at": "2007-01-01",
+                "end_at": "2012-12-01",
+                "current_job": 0
+            },
+            {
+                "job": "Gerente de TI",
+                "place": "https://www.cintesis.com.mx/",
+                "description": "•\tElaborar el anteproyecto de presupuesto, para el programa anual de trabajo y el programa de trabajo de tecnologías de información.\n•\tDesarrollar y dar seguimiento a los proyectos de tecnologías de información que propongan las unidades administrativas para que sean ejecutados en tiempo y forma. \n•\tPlanear, establecer y aplicar los lineamientos, políticas y controles para que los programas y paquetes de software instalados, cuenten con la respectiva licencia de uso o servicio de actualización y soporte. \n•\tPlanear, coordinar, diseñar, desarrollar e implementar los sistemas de información que permitan automatizar la ejecución de las funciones encomendadas a las unidades administrativas. \n•\tPlanear, coordinar y ejecutar el programa de mantenimiento preventivo de la infraestructura informática para mantenerla en funcionamiento, así como para ampliar su vida útil, previniendo posibles fallas de hardware o software, que eviten situaciones que impacten negativamente la productividad de las unidades administrativas. \n•\tAdministrar los componentes de tecnologías de información a su cargo, y los que proporcionen servicios en la materia a la Secretaría, a fin de mantenerlos en operación, y prevenir, detectar o corregir las contingencias que se presenten. \n•\tRealizar y coordinar el mantenimiento de los sistemas de información operados por la Secretaría, con el propósito de que cumplan con los objetivos para el cual fueron creados. \n•\tCoordinar la elaboración de la documentación requerida para el registro ante la autoridad competente de los derechos de autor de los sistemas de información que desarrolle la Secretaría, con el propósito de salvaguardar dichos bienes patrimoniales. \n•\tAtender y supervisar las solicitudes y los servicios de asesoría y soporte técnico; configuración, instalación o mantenimiento de equipo de cómputo; y de telecomunicaciones que requieran las unidades administrativas de la Secretaría, a fin de que cuenten con las herramientas tecnológicas para realizar sus actividades diarias. \n•\tRealizar, con la Coordinación de Administración, los trámites y procedimientos necesarios para mantener actualizado el inventario de equipos, licencias de software e infraestructura de telecomunicaciones de la Secretaría. \n•\tDiseñar, elaborar e implementar un plan de seguridad que permita, mantener la integridad, confidencialidad y disponibilidad de la infraestructura informática, así como prevenir y minimizar daños a la misma. \n•\tDiseñar, elaborar e implementar un plan de contingencia y recuperación que permita la continuidad de las operaciones de la infraestructura informática en caso de un desastre. \n•\tRealizar el análisis e investigación de nuevas tecnologías de información que permitan actualizar y mejorar las capacidades de los sistemas de información e infraestructura informática que opera en la Secretaría, a efecto de evitar su obsolescencia.",
+                "salary_range": "35,000 a 40,000",
+                "start_at": "2013-01-01",
+                "end_at": "",
+                "current_job": 1
+            }
+        ],
+        "skills": [
+            {
+                "name": "Firewalls",
+                "level": "Profesional"
+            },
+            {
+                "name": "Administración de Servidores Windows",
+                "level": "Profesional"
+            },
+            {
+                "name": "Bases de Datos Relacionales",
+                "level": "Profesional"
+            },
+            {
+                "name": "Auditoría de Seguridad",
+                "level": "Profesional"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Básico"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Ing. En Comunicaciónes y Electrónica",
+                "place": "Instituto Politécnico Nacional -ESIME Zac-"
+            }
+        ],
+        "updated_at": "2019-04-14 10:34:00"
+    },
+    {
+        "id": 111845,
+        "region_id": 9,
+        "region_name": "Ciudad de México",
+        "current_salary": "25,000 a 30,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Ing. Soporte Tecnico",
+                "place": "FULL SERVICES SAS",
+                "description": "Soporte a usuarios en sitio y remoto. Administrar la plataforma de Telecomunicaciones, Informática, Sistema de Tele vigilancia y control de acceso biométrico.",
+                "salary_range": "25,000 a 30,000",
+                "start_at": "2018-11-01",
+                "end_at": "2019-02-01",
+                "current_job": 0
+            },
+            {
+                "job": "Líder de Proyecto de Departamento de AIT PDVSA Administrador de la Infraestructura Tecnológica de Redes",
+                "place": "CUNIBE",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "Dell Force 10 Architecture & Confguration”",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "Coordinador de Proyectos en Telecomunicaciones",
+                "place": "VENTECH",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "Coordinador del departamento de Telecomunicaciones",
+                "place": "C.A., Maracaibo",
+                "description": "Coordinar actividades, recursos y desarrollo de soluciones\ntecnológicas integrales",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "Coordinador del departamento de Telecomunicaciones",
+                "place": "IPC DE VENEZUELA, C.A., Maracaibo",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "SURVEYING, C.A., Maracaibo",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "Administrador de la Infraestructura Tecnológica de Redes",
+                "place": "POLÍMEROS DE VENEZUELA, PROPILVEN, S.A. Maracaibo",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "Coordinador de Proyectos en Telecomunicaciones",
+                "place": "PDVSA GAS OCC",
+                "description": "Revisar y controlar los presupuestos de los diferentes proyectos\nAsistir a la Gerencia de Gestión\nRecomendaciones técnicas",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "Especialista de proyectos de tecnología",
+                "place": "Autónomo",
+                "description": "Especialista en Telecomunicaciones, Informática y Automatización",
+                "salary_range": "30,000 a 35,000",
+                "start_at": "2019-02-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "Ingeniero Especialista de proyectos de Telecomunicaciones, Informática y Automatización.",
+                "place": "Autónomo",
+                "description": "1.     Generar propuesta para nuevas soluciones tecnológicas integrales en Telecomunicaciones e Informática.\n2.\tSoporte a usuarios en la atención de cualquier requerimiento de hardware y Software. En sitio o remoto.",
+                "salary_range": "25,000 a 30,000",
+                "start_at": "2019-02-01",
+                "end_at": "",
+                "current_job": 1
+            }
+        ],
+        "skills": [
+            {
+                "name": "Redes Inalámbricas",
+                "level": "Senior"
+            },
+            {
+                "name": "Administración de Proyectos",
+                "level": "Senior"
+            },
+            {
+                "name": "Redes P2P",
+                "level": "Senior"
+            },
+            {
+                "name": "Bases de Datos Relacionales",
+                "level": "Profesional"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Intermedio"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Maestría",
+                "title": "Maestria en Gerencia de Proyectos Industriales",
+                "place": "Universidad: Dr. Rafael Belloso Chacín"
+            },
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Ingeniero en Computación",
+                "place": "Universidad: Dr. Rafael Belloso Chacín"
+            },
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "",
+                "place": ""
+            },
+            {
+                "kind": "Diplomado/Curso",
+                "title": "",
+                "place": "Universidad Dr. Rafael Belloso Chacín"
+            },
+            {
+                "kind": "Diplomado/Curso",
+                "title": "",
+                "place": ""
+            },
+            {
+                "kind": "Diplomado/Curso",
+                "title": "Cableado Estructurado”",
+                "place": ""
+            },
+            {
+                "kind": "Diplomado/Curso",
+                "title": "",
+                "place": ""
+            },
+            {
+                "kind": "Diplomado/Curso",
+                "title": "ITIL Fundamentos”",
+                "place": ""
+            },
+            {
+                "kind": "Diplomado/Curso",
+                "title": "ITIL Gestion de Capacidad y Disponibilidad”",
+                "place": ""
+            }
+        ],
+        "updated_at": "2019-04-14 10:29:48"
+    },
+    {
+        "id": 116624,
+        "region_id": 16,
+        "region_name": "Michoacán",
+        "current_salary": "10,000 a 15,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "ingeniero de soporte",
+                "place": "ISAT telecomunicaciones",
+                "description": "Soporte de equipos de red",
+                "salary_range": "5,000 a 10,000",
+                "start_at": "2018-04-01",
+                "end_at": "2019-03-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Java",
+                "level": "Profesional"
+            },
+            {
+                "name": "PHP",
+                "level": "Profesional"
+            },
+            {
+                "name": "Redes P2P",
+                "level": "Profesional"
+            },
+            {
+                "name": "CSS",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Básico"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Ingeniero en sistemas computacionales",
+                "place": "Instituto tecnológico de Zamora"
+            }
+        ],
+        "updated_at": "2019-04-14 10:14:28"
+    },
+    {
+        "id": 117803,
+        "region_id": 15,
+        "region_name": "Jalisco",
+        "current_salary": "25,000 a 30,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "administrador linux",
+                "place": "Insp",
+                "description": "Sales, logistics and personnel management, advertising inventories, prospecting.\n English language 70% Read, 70% Write, 70% speak.\n General and precision tool. (multimeter, oscilloscope, spectroscope, soldering iron, heat gun and welding). Computer architecture.\n Linux, unix. At the kernel level.\n Programs: Office, internet, C ++ networks, firmware, servers, support it.",
+                "salary_range": "25,000 a 30,000",
+                "start_at": "2007-05-01",
+                "end_at": "2013-07-01",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "CECATI",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "UTJ",
+                "description": "mantenimiento soporte it\ncorporativo\ncartera de clientes\nConfguración a pc",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "Administrador soporte it Operador de SMT",
+                "place": "Cosiensa de México",
+                "description": "Mantenimiento preventivo y correctivo\nValidar ensamble y métodos en el proceso de líneas de\nproducción referente a fallas\nDiagnostico de tarjetas electrónicas y su reparación\nManejo de Multímetro",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "Ingeniero de Aplicaciones",
+                "place": "microformas",
+                "description": "Testing technician.\nDiagnosis of electronic cards and their repair.\nHandling of multimeter, oscilloscope, soldering iron, hot air gun.\nOperator of SMT, Testing equipment, Warehouse and repair.",
+                "salary_range": "5,000 a 10,000",
+                "start_at": "1999-09-01",
+                "end_at": "2004-12-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Administración de Servidores Unix",
+                "level": "Senior"
+            },
+            {
+                "name": "Redes P2P",
+                "level": "Profesional"
+            },
+            {
+                "name": "Windows",
+                "level": "Profesional"
+            },
+            {
+                "name": "Servidores de Aplicaciones (Application Servers)",
+                "level": "Profesional"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Intermedio"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "",
+                "place": "IBM"
+            },
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Ingeniero Electrónico",
+                "place": "UTJ - Universidad Tecnológica de Jalisco"
+            },
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "",
+                "place": ""
+            },
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "",
+                "place": ""
+            },
+            {
+                "kind": "Técnico Superior Universitario",
+                "title": "",
+                "place": ""
+            },
+            {
+                "kind": "Técnico Superior Universitario",
+                "title": "",
+                "place": ""
+            }
+        ],
+        "updated_at": "2019-04-14 09:48:49"
+    },
+    {
+        "id": 105926,
+        "region_id": 9,
+        "region_name": "Ciudad de México",
+        "current_salary": "60,000 a 70,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "IT operations manager / Business Analyst Manager / Project Manager",
+                "place": "L1BRE",
+                "description": "As Operations Manager, I am directly responsible for planning work team tasks, assigning personnel to minor projects or maintenance, so that as a team we can achieve the proposed goals in the quality of delivery devices, the limits in the scope of the project and the delivery dates.\n\nMy responsibilities are:\nDiagnosis, attention and escalation of incidents in software production (registration platform, service agenda platform and training process)\nDiagnosis, attention and scaling of incidents in hardware production\nDefinition and maintenance of hardware installation processes in production.\nSupport for the definition of communication strategies of supervisors in the installation workshops.\nSupport for the definition of software solution requirements (registration platform, service agenda platform, user software, training process and MDM)\nSupport for the definition of hardware solution requirements (registration platform, service agenda platform, user software and training process)\nTesting of software solutions (registration platform (web and mobile), service agenda platform, user software)\nSupervise and coordinate in the field the technical teams for the installation of public events related to banderazos and official events in Mexico City.\nTechnical link and administrator of the MDM platform\nParticipate in the selection of hardware suppliers.\nParticipate in the selection of software suppliers.\nParticipant in the definition of incident care processes.\nParticipant in the definition of follow-up processes for assistance tickets and RMA.\nExecution of the tasks of scheduling facilities in the workshops.\nFirst level of contact for scaling the work of Supervisors of installation workshops.\nCommunication link and expert judgment at the managerial level of technological issues in disputes between the organization and any external or internal entity.",
+                "salary_range": "50,000 a 60,000",
+                "start_at": "2017-05-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "IT operations manager",
+                "place": "L1BRE",
+                "description": "As Operations Manager, I am directly responsible for planning work team tasks, assigning personnel to minor projects or maintenance, so that as a team we can achieve the proposed goals in the quality of delivery devices, the limits in the scope of the project and the delivery dates.\n\nMy responsibilities are:\nDiagnosis, attention and escalation of incidents in software production (registration platform, service agenda platform and training process)\nDiagnosis, attention and scaling of incidents in hardware production\nDefinition and maintenance of hardware installation processes in production.\nSupport for the definition of communication strategies of supervisors in the installation workshops.\nSupport for the definition of software solution requirements (registration platform, service agenda platform, user software, training process and MDM)\nSupport for the definition of hardware solution requirements (registration platform, service agenda platform, user software and training process)\nTesting of software solutions (registration platform (web and mobile), service agenda platform, user software)\nSupervise and coordinate in the field the technical teams for the installation of public events related to banderazos and official events in Mexico City.\nTechnical link and administrator of the MDM platform\nParticipate in the selection of hardware suppliers.\nParticipate in the selection of software suppliers.\nParticipant in the definition of incident care processes.\nParticipant in the definition of follow-up processes for assistance tickets and RMA.\nExecution of the tasks of scheduling facilities in the workshops.\nFirst level of contact for scaling the work of Supervisors of installation workshops.\nCommunication link and expert judgment at the managerial level of technological issues in disputes between the organization and any external or internal entity.",
+                "salary_range": "60,000 a 70,000",
+                "start_at": "2017-05-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "Manager of Operations",
+                "place": "L1BRE",
+                "description": "As Operations Manager, I am directly responsible for planning teams tasks, assigning personnel to minor projects or maintenance, keep follow up session to solve production incidents such as hardware, communications incidents or software incidents, so that as a team we can achieve the proposed goals such as the number of devices installed, define the project’s scope and the delivery dates. \nMy responsibilities are:\nDiagnosis, attention and escalation of incidents related to L1BRE software in production environment and test environment (registration platform, service agenda platform and training process)\nDiagnosis, attention and scaling of incidents related to L1BRE hardware in production environment and test environment\nImplementation and definition of communication strategies related to L1BRE supervisors located in the installation workshops\nStakeholder as product owner team for the definition of software requirements (registration platform, service agenda platform, user software, training process and MDM)\nStakeholder as product owner team for the definition of hardware solution requirements (registration platform, service agenda platform, user software and training process)\nUAT manager (registration platform (web and mobile), service agenda platform, user software)\nSupervise and coordinate technical teams for the installation in public events related to official Government events\nTechnical link and administrator for the MDM platform\nConsulted stakeholder for the definition of follow-up processes for assistance tickets and RMA\nCommunication liaison and expert judge at the managerial level of technological issues in disputes between the organization and any external or internal entity\nFunctional Experience:Lean Software Development, BPMN, UML, BABoK, Project Management, Project estimations, business road map definition, process definition, teams task assignation and task scheduling, testing lead\nTools:Microsoft Office, MDM AirWatch VMware, Project, Jira, Zendesk\n",
+                "salary_range": "",
+                "start_at": "2017-05-01",
+                "end_at": "",
+                "current_job": 1
+            }
+        ],
+        "skills": [
+            {
+                "name": "Análisis de Requerimientos",
+                "level": "Senior"
+            },
+            {
+                "name": "Administración de Proyectos",
+                "level": "Senior"
+            },
+            {
+                "name": "Analista de Sistemas",
+                "level": "Senior"
+            },
+            {
+                "name": "Diseño de Software",
+                "level": "Senior"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Avanzado"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Maestría",
+                "title": "Maestría en Ciencias de la Computación",
+                "place": "Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas (IIMAS)"
+            }
+        ],
+        "updated_at": "2019-04-14 09:40:38"
+    },
+    {
+        "id": 117804,
+        "region_id": 9,
+        "region_name": "Ciudad de México",
+        "current_salary": "30,000 a 35,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Consultor Funcional",
+                "place": "AX One Consulting",
+                "description": "Modelados de Negocios, Re Ingeniería de procesos, Project Management, Pre Venta, Entrenamiento interno, Certificaciones.",
+                "salary_range": "30,000 a 35,000",
+                "start_at": "2018-08-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "",
+                "place": "GIVSA EdoMex",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "Taylor Technologies Villa Hermosa",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "AVANTI Cancún",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "MANUCHAR NV",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "OFIPLAN Guadalajara",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "CONSULTOR FUNCIONAL",
+                "place": "EPICOR",
+                "description": "Análisis de Brechas(GAPS)\nDesarrollo de Flujos de Trabajo\nConfiguración de\n          Ambientes(Piloto, Producción)\nCarga de Catálogos",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "CONSULTOR FUNCIONAL Líder de proyectos",
+                "place": "AMBERES BÉLGICA",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "Materials Planning MRP(TASC Asesores)",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "Hong Kong",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "Líder de proyectos",
+                "place": "Bélgica, Vietnam",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "ANALISTA DE SOPORTE INGENIERO DE SOPORTE",
+                "place": "EPICOR SOFTWARE",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "Laboratorios Clínicos",
+                "description": "Negociación y Desarrollo de proveedores\nEvaluación de\n          Proveedores\nAdministración de Inventarios\nDesarrollo e implementación de MRP en función\n          a estadísticas de ventas\nDesarrollo de procedimientos de\n          trabajo",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "EPICOR",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "INGENIERO MECÁNICO ADMINISTRADOR DE FACULTAD DE INGENIERÍA\n           MECÁNICA Y ELÉCTRICA",
+                "place": "Modelados de Negocios",
+                "description": "Re Ingeniería de procesos",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "JEFE DE COMPRAS",
+                "place": "FISHER SCIENTIFIC\n          COMPRADOR INTERNACIONAL",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "Sud África",
+                "description": "Revisión de\n          procesos de negocios(BPR)",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "ABSORMEX Guadalajara",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "SIEMENS A&D\n          ESPECIALISTA DE COMPRAS",
+                "description": "Desarrollo de proveedores\nDesarrollo de proyectos de\n          productividad(ahorro)\nDesarrollo de Nuevos Productos\nre\n          ingeniería de procesos\nEvaluación de Proveedores\nAplicación de Assestments de Calidad a proveedores\nRacionalización de proveedores\nPlaneación y Compra de\n          materiales\nIngeniería de Productos\nControl de Anexo 24\n          para programa IMMEX",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "Ingeniero de Proyectos CONSULTOR FUNCIONAL",
+                "place": "MOLDEO DE PLASTICOS FAR",
+                "description": "Re Ingeniería de procesos\nimplantación de\n                   Cadena de Suministros\ncreación e implementación de procedimientos",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "Project\n                             Management",
+                "place": "Modelados de Negocios",
+                "description": "Análisis de\n          Brechas(GAPS)\nConfiguración de Ambientes(Piloto, Producción)\nCarga de\n          Catálogos\nCarga de Saldos Iniciales",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "Consultor Implementador Sr. – Project Manager",
+                "place": "AXONE CONSULTING",
+                "description": "Soporte a usuarios\nRe Ingeniería de Procesos\nImplementación de\n          Procedimientos de Mejora Continua\nEncargado de los commodities para tren motriz\nPlaneación\n          de Materiales y Suministro\nExpeditaciòn de Materiales\nNegociación con Proveedores\nDesarrollo de Proveedores\nIngeniería de Productos",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "SAP",
+                "level": "Senior"
+            },
+            {
+                "name": "Administración de Proyectos",
+                "level": "Senior"
+            },
+            {
+                "name": "Bases de Datos Relacionales",
+                "level": "Profesional"
+            },
+            {
+                "name": "C",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Avanzado"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Certificación",
+                "title": "",
+                "place": ""
+            },
+            {
+                "kind": "Certificación",
+                "title": "Six Sigma Green Belt – Proyecto Re Ingeniería de\n                     Procesos y Materiales",
+                "place": ""
+            },
+            {
+                "kind": "Diplomado/Curso",
+                "title": "",
+                "place": ""
+            }
+        ],
+        "updated_at": "2019-04-14 09:34:14"
+    },
+    {
+        "id": 117802,
+        "region_id": 10,
+        "region_name": "Durango",
+        "current_salary": "30,000 a 35,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Encargada del área de programación y soporte técnico",
+                "place": "Zapaterias Luxor",
+                "description": "Planeación de proyectos, desarrollo e implementación de software",
+                "salary_range": "",
+                "start_at": "2007-03-01",
+                "end_at": "",
+                "current_job": 1
+            }
+        ],
+        "skills": [],
+        "languages": [],
+        "educations": [],
+        "updated_at": "2019-04-14 08:32:07"
+    },
+    {
+        "id": 117777,
+        "region_id": 22,
+        "region_name": "Querétaro",
+        "current_salary": "10,000 a 15,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Ingeniero en software",
+                "place": "empleosTI",
+                "description": "tester",
+                "salary_range": "25,000 a 30,000",
+                "start_at": "2019-04-01",
+                "end_at": "2019-04-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Penetration Tester",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Avanzado"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Cursando",
+                "title": "Ingenieria en sistemas computacionales.",
+                "place": "Instituto Tecnológico de Querétaro"
+            }
+        ],
+        "updated_at": "2019-04-14 02:53:16"
+    },
+    {
+        "id": 36261,
+        "region_id": 9,
+        "region_name": "Ciudad de México",
+        "current_salary": "20,000 a 25,000",
+        "birthday": "1978-04-06",
+        "experiences": [
+            {
+                "job": "Gerente de Recursos Humanos en IT",
+                "place": "Quality & Knowledge on IT Services",
+                "description": "•\tCoordinar el equipo de Reclutamiento y Selección para el logro de los objetivos.\r\n•\tReclutamiento y Selección de perfiles IT.\r\n•\tSeguimiento de candidatos desde primer contacto, entrevista inicial, profunda, por competencias, técnica, aplicación de exámenes psicométricos (proyectivas y de  inteligencia), técnicos, evaluación de perfil, contacto con los responsables de proyecto y con clientes para dar seguimiento de personal y cubrir los perfiles solicitados. \r\n•\tElaboración de propuesta laboral y envío al candidato.\r\n•\tNegociación de sueldos.\r\n•\tElaboración de contratos  (Nómina, Bono, Asimilados, determinados y Confidencialidad) para los colaboradores que se integran a Quality.\r\n•\tEntrega de Contratos para firma de nuevo ingreso y renovación.\r\n•\tEnviar información de nuevo ingreso a Quality a la Dirección de Operaciones.\r\n•\tEnviar la información de ingreso y archivos adicionales a los clientes que lo solicitan para su administración.\r\n•\tGenerar el correo electrónico (qacg.com) para los nuevos colaboradores, darlos de alta en el sistema (ERP) y solucionar inconvenientes técnicos.\r\n•\tAdministrar las redes sociales de Quality  (Facebook, Twitter)\r\n•\tReportar a Thesiteforme sobre las fallas que tengamos en ese momento para que el servicio se restablezca.\r\n•\tAtender y Dar seguimiento a los reportes de los empleados en los días de pago.\r\n•\tProveer de equipo de cómputo a los colaboradores que se asignan.\r\n•\tRealizar cartas de renuncia, entrega de finiquitos y carta de recomendación a los colaboradores que se separan de Quality.\r\n•\tDar de baja correo electrónico QACG.com de los colaboradores que se separan de Quality.\r\n•\tApoyar a los colaboradores con trámites que nos interesa que resuelvan como son de INFONAVIT, IMSS, RFC, CURP y BANCOS.\r\n•\tAtender a los clientes  Bursatec y Procesar, desde reclutamiento hasta contratos y pagos.\r\n•\tSolicitar credenciales de acceso al corporativo para ingresar a las instalaciones de Q&K\r\n•\tEntrega de camisa y agenda a los nuevos colaboradores.\r\n•\tSolicitud a Gestión de reporte de vacaciones para cálculo de prima  vacacional y finiquitos.\r\n•\tSolicitar el Alta y Bajas ante el IMSS al despacho contable y revisar que se reflejen en el SUA.\r\n•\tSolicitar recibos de nómina y asimilados mensuales al despacho para enviarlo a los colaboradores que lo solicitan.\r\n•\tSolicitar y validar los finiquitos y liquidaciones al Despacho contable.\r\n•\tSupervisar tramites del IMSS e INFONAVIT que tienen los colaboradores y se les hagan sus descuentos y/o pagos correspondientes.\r\n•\tGestionar el cálculo y pagos de prima vacacional.\r\n•\tReclutamiento y selección de diferentes perfiles, algunos de ellos son: Java Web y escritorio, .Net Web Framework 1.0 – 4.0, DBA Oracle y SQL Server, B.I., Tester, Administradores de Tuxedo,  Weblogic, OFA, PHP, Magento, Linux, PL-SQL, DWH, Telecomunicaciones.\r\n•\tAtender Ferias de Reclutamiento del Politécnico.\r\n•\tPersonas a cargo: 2 Reclutadoras. \r\n•\tArchivo y Administración de Personal\r\n•\tIncidencias.\r\n•\tComunicación.\r\n",
+                "salary_range": "15,000 a 20,000",
+                "start_at": "2012-03-07",
+                "end_at": "2015-11-05",
+                "current_job": 0
+            },
+            {
+                "job": "Líder de RyS",
+                "place": "Grupo Solutio México",
+                "description": "Coordinar el equipo de Reclutamiento y Selección para el logro de los objetivos.\n•\tReclutamiento y Selección de perfiles IT.\n•\tSeguimiento de candidatos desde primer contacto, entrevista inicial, profunda, por competencias, técnica, aplicación de exámenes psicométricos (proyectivas y de  inteligencia), técnicos, evaluación de perfil, contacto con los responsables de proyecto y con clientes para dar seguimiento de personal y cubrir los perfiles solicitados.",
+                "salary_range": "15,000 a 20,000",
+                "start_at": "2016-07-01",
+                "end_at": "2018-03-01",
+                "current_job": 0
+            },
+            {
+                "job": "Consultor Freelance",
+                "place": "Consultoría",
+                "description": "Reclutamiento y selección IT",
+                "salary_range": "20,000 a 25,000",
+                "start_at": "2017-03-01",
+                "end_at": "2018-07-01",
+                "current_job": 0
+            },
+            {
+                "job": "Reclutador Sr IT",
+                "place": "Gonet",
+                "description": "Reclutamiento  y  selección  IT",
+                "salary_range": "20,000 a 25,000",
+                "start_at": "2018-08-01",
+                "end_at": "2018-12-01",
+                "current_job": 0
+            },
+            {
+                "job": "Reclutadora Sr  TI",
+                "place": "Vector ITC Group",
+                "description": "Reclutamiento y selección  IT",
+                "salary_range": "20,000 a 25,000",
+                "start_at": "2018-12-01",
+                "end_at": "",
+                "current_job": 1
+            }
+        ],
+        "skills": [
+            {
+                "name": "Reclutamiento",
+                "level": "Experto"
+            },
+            {
+                "name": "Adminstración de Personal",
+                "level": "Experto"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Básico"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Lic. en Psicología",
+                "place": "Universidad de Londres"
+            }
+        ],
+        "updated_at": "2019-04-14 02:42:31"
+    },
+    {
+        "id": 96927,
+        "region_id": 19,
+        "region_name": "Nuevo León",
+        "current_salary": "15,000 a 20,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Ejecutivo de cuentas",
+                "place": "National Soft de México",
+                "description": "Identificar las necesidades del cliente (cuentas corporativas) para promover la excelencia en el servicio al cliente, ventas que ayuden a activar la cartera de clientes, administración de clientes, seguimiento y cierre de ventas. Para el canal de distribuidores Profesionalizar de acuerdo a políticas de la empresa, Estudios de Mercado, Seguimiento en CRM de los leads asignados, seguimiento y apoyo al Distribuidor para cierre de ventas consultivas. Participar en Expos y Convenciones, cuando sea requerido.",
+                "salary_range": "10,000 a 15,000",
+                "start_at": "2017-09-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "Lider Canal de Distribuidores",
+                "place": "BIOS instala",
+                "description": "Líder de atención a  Canal de Distribuidores, apoyo y Desarrollo Comercial a las diferentes áreas de la empresa en  corporativo  y en las  8 oficinas  regionales. Implementación  de metodologías de trabajo,  participación en Estrategias Comerciales, Desarrollo de nuevos negocios. Negociación.",
+                "salary_range": "10,000 a 15,000",
+                "start_at": "2016-02-01",
+                "end_at": "2017-07-01",
+                "current_job": 0
+            },
+            {
+                "job": "Consultor de Soluciones de Capital Humano",
+                "place": "SAS Monterrey",
+                "description": "Encargado de Atención a temas del Área de Recursos  Humanos,  como  son: Reclutamiento  y  Selección  de Personal, Evaluaciones Psicométricas, Estudios Socioeconómicos e Investigación Socio laboral, Evaluaciones 360º, Estudio de Clima Laboral y aplicación de Entrevistas por Competencias.",
+                "salary_range": "5,000 a 10,000",
+                "start_at": "2015-10-01",
+                "end_at": "2016-02-01",
+                "current_job": 0
+            },
+            {
+                "job": "Coordinador  Comercial",
+                "place": "Contpaqi",
+                "description": "Cumplir con el 100% del Presupuesto  de Ventas asignado a la Cartera en Atención. Desarrollando Estrategias de Ventas personalizadas por cada Cliente. Incrementando el Canal de Distribución en los estados de Coahuila; Nuevo León y Tamaulipas. Coordinar, realizar y  exponer Seminarios con temas relevantes en las Estrategias de Venta. Realizar presupuestos, negociar el crecimiento anual con cliente. Control de  gastos, manejo de CUBOS de Información. Apoyo de Coaching a Negocios.",
+                "salary_range": "15,000 a 20,000",
+                "start_at": "2002-03-01",
+                "end_at": "2015-02-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Ventas TI",
+                "level": "Experto"
+            },
+            {
+                "name": "Administración de Proyectos",
+                "level": "Senior"
+            },
+            {
+                "name": "Adminstración de Personal",
+                "level": "Senior"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Básico"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Lic. Administracion de empresas",
+                "place": "Universidad Metropolitana de Monterrey"
+            }
+        ],
+        "updated_at": "2019-04-14 02:14:42"
+    },
+    {
+        "id": 117801,
+        "region_id": 21,
+        "region_name": "Puebla",
+        "current_salary": "50,000 a 60,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Innovation manager (iOS, Web)",
+                "place": "CellFusion, Inc.",
+                "description": "Lead applications mobile (iOS) and web , designing from the concept to the applications to the  deployment.\n-Developed web applications.\n-Lead businness.\n-IOS applications.\n-Project management.\n-WatchOS applications.\n-Creation of IOS libraries.",
+                "salary_range": "30,000 a 35,000",
+                "start_at": "2016-12-01",
+                "end_at": "2017-01-01",
+                "current_job": 0
+            },
+            {
+                "job": "Senior iOS Developer",
+                "place": "T-Systems Mexico",
+                "description": "Lead mobile iOS applications, from the design, taking the desicion of the architecture of the system, with clients like Volkswagen, Audi, interacting with the back-end.",
+                "salary_range": "45,000 a 50,000",
+                "start_at": "2017-01-01",
+                "end_at": "",
+                "current_job": 1
+            }
+        ],
+        "skills": [
+            {
+                "name": "iOS",
+                "level": "Experto"
+            },
+            {
+                "name": "Javascript",
+                "level": "Senior"
+            },
+            {
+                "name": "HTML5",
+                "level": "Profesional"
+            },
+            {
+                "name": "Java",
+                "level": "Profesional"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Avanzado"
+            },
+            {
+                "name": "Español",
+                "level": "Lengua Nativa"
+            },
+            {
+                "name": "Alemán",
+                "level": "Nivel Básico"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Ingeniero en sistemas computacionales",
+                "place": "Universidad de las Americas Puebla"
+            },
+            {
+                "kind": "Certificación",
+                "title": "iOS developer",
+                "place": "Apple"
+            }
+        ],
+        "updated_at": "2019-04-14 01:55:49"
+    },
+    {
+        "id": 108578,
+        "region_id": 11,
+        "region_name": "Estado de México",
+        "current_salary": "15,000 a 20,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Lider de proyecto",
+                "place": "Wundertec",
+                "description": "Planeación y documentación de requerimientos, analizar y crear tareas/sprint, organizar equipo de trabajo y realizar seguimiento de proyectos, migración de datos, procedimientos almacenados y triggers, diseño de sistemas MVC , control de versiones con GIT, validación de funcionalidad y pruebas.",
+                "salary_range": "10,000 a 15,000",
+                "start_at": "2018-08-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "Programador Web",
+                "place": "Wundertec",
+                "description": "Desarrollo de módulos y mantenimiento a las plataformas:\n*Beo-Nexus. CRM de ventas de viajes escolares, desarrollada con herramientas : PHP (Laravel), jQuery, HTML5, CSS3, mysql. * English village. Plataforma de cursos de inglés, desarrollada con herramientas: PHP (Codeigniter), jQuery, HTML5, CSS3, mysql.\n*OTCC . Plataforma de exámenes de certificación de inglés. PHP (Codeigniter), jQuey, HTML5, CSS3, mysql.",
+                "salary_range": "5,000 a 10,000",
+                "start_at": "2017-06-01",
+                "end_at": "2018-08-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Gestión de Servicios (IT Service Management)",
+                "level": "Profesional"
+            },
+            {
+                "name": "Análisis de Requerimientos",
+                "level": "Profesional"
+            },
+            {
+                "name": "Bases de Datos Relacionales",
+                "level": "Profesional"
+            },
+            {
+                "name": "PHP",
+                "level": "Profesional"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Básico"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Pasante",
+                "title": "Ingenieria en sistemas computacionales.",
+                "place": "Escuela Superior de Cómputo"
+            }
+        ],
+        "updated_at": "2019-02-07 18:28:06"
+    },
+    {
+        "id": 115093,
+        "region_id": 11,
+        "region_name": "Estado de México",
+        "current_salary": "25,000 a 30,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Dwdm engineer",
+                "place": "Huawei Technologies",
+                "description": "Technical leader en delivery de proyectos dwdm",
+                "salary_range": "35,000 a 40,000",
+                "start_at": "2014-04-01",
+                "end_at": "",
+                "current_job": 1
+            }
+        ],
+        "skills": [
+            {
+                "name": "Administración de Proyectos",
+                "level": "Profesional"
+            },
+            {
+                "name": "Governance, Risk management, and Compliance",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Avanzado"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Ingeniero en comunicaciones y electronica",
+                "place": "Instituto Politécnico Nacional -ESIME Zac-"
+            }
+        ],
+        "updated_at": "2019-04-14 00:36:41"
+    },
+    {
+        "id": 111782,
+        "region_id": 5,
+        "region_name": "Chiapas",
+        "current_salary": "30,000 a 35,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Jefe de Soporte técnico y servicios a usuarios",
+                "place": "Gobierno del Estado de Chiapas",
+                "description": "Coordinar los servicio a usuarios de sistemas en producción, Redes, soporte técnico, análisis y diseño de nuevas aplicaciones de control interno a la dependencia.",
+                "salary_range": "15,000 a 20,000",
+                "start_at": "2012-05-01",
+                "end_at": "2017-06-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Diseño de Software",
+                "level": "Profesional"
+            },
+            {
+                "name": "Analista de Sistemas",
+                "level": "Profesional"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés simplificado",
+                "level": "Nivel Avanzado"
+            },
+            {
+                "name": "Inglés",
+                "level": "Nivel Avanzado"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Licenciado en Informática",
+                "place": "Universidad Autónoma de Chiapas"
+            }
+        ],
+        "updated_at": "2019-04-13 23:54:38"
+    },
+    {
+        "id": 115749,
+        "region_id": 9,
+        "region_name": "Ciudad de México",
+        "current_salary": "70,000 a 80,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Sr Adv Application Engineer",
+                "place": "Honeywell Process Solutions",
+                "description": "Projects Executed: \n- Technical Leader of Implementation OTS in Mexico.\n- Execution leader in Braskem (Brazil) of Evaluation Operational Excellence. Completed successfully. \n- Coordinator project & Executing of Operational Excellence  in six Refineries in Mexico. Completed successfully.\n- Evaluation of  Operational Excellence 41 plants in Mexico. Completed successfully.\n\n- Sales support. \n\n- Tools of Advanced Process Control",
+                "salary_range": "60,000 a 70,000",
+                "start_at": "2016-04-01",
+                "end_at": "",
+                "current_job": 1
+            }
+        ],
+        "skills": [
+            {
+                "name": "Gestión de Procesos de Negocio (BPM)",
+                "level": "Experto"
+            },
+            {
+                "name": "Diseño de Software",
+                "level": "Experto"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Lengua Nativa"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Maestría",
+                "title": "Project Management Professional",
+                "place": "UABC"
+            }
+        ],
+        "updated_at": "2019-03-15 07:19:19"
+    },
+    {
+        "id": 103937,
+        "region_id": 22,
+        "region_name": "Querétaro",
+        "current_salary": "Mas de 500,000",
+        "birthday": "1998-07-11",
+        "experiences": [],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "Senior"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Español",
+                "level": "Lengua Nativa"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Cursando",
+                "title": "Ingeniero en Sistemas y Comunicaciones",
+                "place": "Instituto Tecnológico de Querétaro"
+            }
+        ],
+        "updated_at": "2019-04-13 23:34:22"
+    },
+    {
+        "id": 115738,
+        "region_id": 15,
+        "region_name": "Jalisco",
+        "current_salary": "15,000 a 20,000",
+        "birthday": "1967-09-04",
+        "experiences": [
+            {
+                "job": "Coordinador Administrativo",
+                "place": "Integradora de Servicios Operativos, S.A. de C.V.                            Servicios",
+                "description": "Cooedinación Administrativa",
+                "salary_range": "10,000 a 15,000",
+                "start_at": "1995-07-01",
+                "end_at": "1999-01-01",
+                "current_job": 0
+            },
+            {
+                "job": "Ejecutivo",
+                "place": "Grupo Financiero Inbursa (Inversora Bursátil, S.A.B. de C.V.",
+                "description": "Captación de nuevos clientes inversionistas para con la Institución",
+                "salary_range": "3,000 a 5,000",
+                "start_at": "2012-06-01",
+                "end_at": "2013-12-01",
+                "current_job": 0
+            },
+            {
+                "job": "Gerente",
+                "place": "LIPP        Systems",
+                "description": "Fabricación de mecanismos para la agroindustria",
+                "salary_range": "5,000 a 10,000",
+                "start_at": "1999-03-01",
+                "end_at": "2001-09-01",
+                "current_job": 0
+            },
+            {
+                "job": "Gerente de Unidad de Negocios",
+                "place": "FAMSA",
+                "description": "Responsable de la operación integral de la sucursal",
+                "salary_range": "10,000 a 15,000",
+                "start_at": "2015-06-01",
+                "end_at": "2016-05-01",
+                "current_job": 0
+            },
+            {
+                "job": "Gerente de Ventas",
+                "place": "Ecosa",
+                "description": "Responsable del área de consumibles",
+                "salary_range": "5,000 a 10,000",
+                "start_at": "2014-01-01",
+                "end_at": "2015-02-01",
+                "current_job": 0
+            },
+            {
+                "job": "Gerente de Sucursal Analista de metas Gerente de metas Gerente de sala Bancaria y                                 Gerente de sucursal",
+                "place": "Bancomer, S.A.                            Servicios Financieros",
+                "description": "Responsable de la operación de la sucursal",
+                "salary_range": "5,000 a 10,000",
+                "start_at": "1987-06-01",
+                "end_at": "1995-06-01",
+                "current_job": 0
+            },
+            {
+                "job": "Gerente de Sucursal",
+                "place": "DAZ              Grupo Daz",
+                "description": "Posicionamiento de las marcas del Grupo",
+                "salary_range": "5,000 a 10,000",
+                "start_at": "2016-09-01",
+                "end_at": "2018-04-01",
+                "current_job": 0
+            },
+            {
+                "job": "Negocio Propio",
+                "place": "Maseco y Prosin",
+                "description": "Mantenimiento y Servicios en Cómputo / Proveedora de Servicios en Inmuebles",
+                "salary_range": "5,000 a 10,000",
+                "start_at": "2001-09-01",
+                "end_at": "2012-05-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Ventas TI",
+                "level": "Profesional"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Español",
+                "level": "Nivel Básico"
+            },
+            {
+                "name": "Inglés",
+                "level": "Nivel Básico"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Lic. en Ciencias de la Comunicacion",
+                "place": "Universidad del Valle de Atemajac (UNIVA)"
+            }
+        ],
+        "updated_at": "2019-04-13 23:28:34"
+    },
+    {
+        "id": 102573,
+        "region_id": 11,
+        "region_name": "Estado de México",
+        "current_salary": "35,000 a 40,000",
+        "birthday": "1998-11-02",
+        "experiences": [
+            {
+                "job": "FullStack Developer",
+                "place": "Ironhack",
+                "description": "Mortal Space Meteors!: Multiplayer 1 vs 1 type video game where 2 aliens fight to survive in space against a wave of meteors they have encountered, the last one to survive wins!",
+                "salary_range": "1,000 a 3,000",
+                "start_at": "2018-08-01",
+                "end_at": "2018-08-01",
+                "current_job": 0
+            },
+            {
+                "job": "FullStack Developer",
+                "place": "Ironhack",
+                "description": "MEXAPARTY: Full Stack Web application with the main objective is to make it easier for the user to find and hire musical groups and bands for their parties and special events like weddings.",
+                "salary_range": "1,000 a 3,000",
+                "start_at": "2018-09-01",
+                "end_at": "2018-09-01",
+                "current_job": 0
+            },
+            {
+                "job": "FullStack Developer",
+                "place": "Ironhack",
+                "description": "ADOPT A PET is a single page application where it’s main objective is to find new homes for animal that are on the streets or for pets whose owners can no longer keep and need a new home, it also works as a platform where any user with the desire to adopt a pet can use to fulfill his search.",
+                "salary_range": "1,000 a 3,000",
+                "start_at": "2018-10-01",
+                "end_at": "2018-10-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "HTML5",
+                "level": "Experto"
+            },
+            {
+                "name": "CSS",
+                "level": "Experto"
+            },
+            {
+                "name": "Javascript",
+                "level": "Senior"
+            },
+            {
+                "name": "JQuery",
+                "level": "Senior"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Avanzado"
+            },
+            {
+                "name": "Español",
+                "level": "Lengua Nativa"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Diplomado/Curso",
+                "title": "Full Stack Developer ( JavaScript, MongoDB Express.js, React.js, Node,js )",
+                "place": "Ironhack Mexico"
+            }
+        ],
+        "updated_at": "2019-04-13 23:09:36"
+    },
+    {
+        "id": 116488,
+        "region_id": 9,
+        "region_name": "Ciudad de México",
+        "current_salary": "15,000 a 20,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Soporte Tecnico en sitio",
+                "place": "Tecnolóigico de Estudios Superiores de Jocotitlan",
+                "description": "\tBrindar soporte técnico a usuarios vía remota.\n\tDar soporte técnico a equipos de cómputo, telefonía, tabletas, iPad.\n\tLiberación de equipos telefónicos.\n\tLlenado de bitácoras.\n\tTrato con proveedores-\n\tAsistencia a usuarios finales.",
+                "salary_range": "5,000 a 10,000",
+                "start_at": "2018-10-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "",
+                "place": "Coleigio de Estudios Científcos y Tecnolóigicos del Estado de México",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "GENERACION",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "Deleigación Álvaro Obreigón",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "GENERACION",
+                "description": "Brindar soporte técnico a usuarios vía remota\nDar soporte técnico a equipos de cómputo\nLiberación de equipos telefónicos\nLlenado de bitácoras\nTrato con proveedores",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "Escuela preparatoria Ofcial",
+                "description": "Mayo de 2015 al 18 de Octubre del 2015\nAsesoría a docentes\nCreación de red de área local\nAdministración de internet\nCertifcación en CCNA Cisco\nCertifcación en paquetería de Ofce 2010\nDiseñar, configurar y administrar redes computacionales",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "Grupo Tollocan S.A. de C.V.",
+                "description": "Restricción de páiginas web no aptas o ajenas al igiro de\n                la empresa\nAdministración y mantenimiento de equipo de cómputo\nControl de la red para mantener a usuarios no deseados\n                dentro de la red Etsernet\nConfiguración de red wif para restrinigir el acceso a\n                personal no autorizado\nConfiguración de cuentas Outlook\nResiguardo de equipos de cómputo\nConfiguración de ipas para acceso a escritorio remoto\nRealización y resiguardo de backups\nAdministración y mantenimiento de equipo de cómputo\nCreación de red local\nmejorar el control del equipo\n                de cómputo\nConfiguración y administración de red wif para el\n                acceso del personal administrativo\nDiseño y Desarrollo de un Sistema de Control de Zonas\n                de Incidencias Delictivas",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Redes Inalámbricas",
+                "level": "Profesional"
+            },
+            {
+                "name": "Analista de Sistemas",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "Bases de Datos Relacionales",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Básico"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Sistemas Computacionales",
+                "place": ""
+            },
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Sistemas\nComputacionales",
+                "place": ""
+            },
+            {
+                "kind": "Estudios Universitarios - Pasante",
+                "title": "Ingeniero en Sistemas Computacionales",
+                "place": "Tecnológico de Estudios Superiores de Jocotitlan"
+            },
+            {
+                "kind": "Técnico Superior Universitario",
+                "title": "Informática",
+                "place": ""
+            }
+        ],
+        "updated_at": "2019-04-13 22:53:55"
+    },
+    {
+        "id": 116778,
+        "region_id": 24,
+        "region_name": "San Luis Potosí",
+        "current_salary": "10,000 a 15,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "network desing and manage",
+                "place": "el poder de internet sa de cv",
+                "description": "Network desing and manage , supervision of the network, technical services , technical support",
+                "salary_range": "10,000 a 15,000",
+                "start_at": "2015-03-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "Project desing",
+                "place": "Desarrollo e investigaciones SA de CV",
+                "description": "Desing and elaboration of 3D prothesis using a 3D printer",
+                "salary_range": "3,000 a 5,000",
+                "start_at": "2016-07-01",
+                "end_at": "2017-08-01",
+                "current_job": 0
+            },
+            {
+                "job": "Senior Network Design Engineer",
+                "place": "PODERNET.... el poder de internet",
+                "description": "Network design and manage\nEnd-devices specialist\nTechnical support\nWAN managing\nL2 and L3 protocols implementation\nTechnical support\nSupervisión of the network",
+                "salary_range": "10,000 a 15,000",
+                "start_at": "2015-03-01",
+                "end_at": "",
+                "current_job": 1
+            }
+        ],
+        "skills": [
+            {
+                "name": "Redes Inalámbricas",
+                "level": "Profesional"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés simplificado",
+                "level": "Nivel Avanzado"
+            },
+            {
+                "name": "Inglés",
+                "level": "Nivel Avanzado"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Sin Terminar",
+                "title": "Ingeniero en Telecomunicaciones",
+                "place": "UASLP"
+            }
+        ],
+        "updated_at": "2019-03-28 08:41:43"
+    },
+    {
+        "id": 98021,
+        "region_id": 19,
+        "region_name": "Nuevo León",
+        "current_salary": "20,000 a 25,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Front End Developer",
+                "place": "Accenture",
+                "description": "Front end developer con React, redux",
+                "salary_range": "20,000 a 25,000",
+                "start_at": "2018-01-01",
+                "end_at": "2019-01-01",
+                "current_job": 0
+            },
+            {
+                "job": "Front End Developer",
+                "place": "Accenture",
+                "description": "Front end con react, generador de pdf con libreria pdfMake",
+                "salary_range": "25,000 a 30,000",
+                "start_at": "2018-09-01",
+                "end_at": "2019-03-01",
+                "current_job": 0
+            },
+            {
+                "job": "Web Developer",
+                "place": "Panasonic",
+                "description": "Web developer para el departamento de calidad.",
+                "salary_range": "15,000 a 20,000",
+                "start_at": "2014-01-01",
+                "end_at": "2014-12-01",
+                "current_job": 0
+            },
+            {
+                "job": "Web developer",
+                "place": "Panasonic",
+                "description": "Web developer para el departamento de calidad",
+                "salary_range": "15,000 a 20,000",
+                "start_at": "2014-01-01",
+                "end_at": "2014-12-01",
+                "current_job": 0
+            },
+            {
+                "job": "Web Developer",
+                "place": "Panasonic",
+                "description": "Web developer para el departamento de calidad",
+                "salary_range": "15,000 a 20,000",
+                "start_at": "2014-01-01",
+                "end_at": "2014-12-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Javascript",
+                "level": "Profesional"
+            },
+            {
+                "name": "HTML5",
+                "level": "Profesional"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Avanzado"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Ingeniero en Desarrollo de Software",
+                "place": "Universidad Tec Milenio"
+            }
+        ],
+        "updated_at": "2019-04-13 22:38:51"
+    },
+    {
+        "id": 117799,
+        "region_id": 29,
+        "region_name": "Tlaxcala",
+        "current_salary": "10,000 a 15,000",
+        "birthday": "",
+        "experiences": [],
+        "skills": [
+            {
+                "name": "HTML",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "PHP",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "Bases de Datos Relacionales",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "Administración de Servidores Unix",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Básico"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Tecnologías de la Información",
+                "place": ""
+            },
+            {
+                "kind": "Técnico Superior Universitario",
+                "title": "Informática",
+                "place": "Universidad Politécnica de Tlaxcala"
+            }
+        ],
+        "updated_at": "2019-04-13 22:38:00"
+    },
+    {
+        "id": 117342,
+        "region_id": 31,
+        "region_name": "Yucatán",
+        "current_salary": "5,000 a 10,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Supervisor",
+                "place": "MG Computación",
+                "description": "Servicio de soporte técnico preventivo y correctivo a",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "INEGI\n                    Regional del sureste Mérida Yucatán",
+                "description": "Mantenimiento preventivo y correctivo de las\n                    terminales\nRealizar reporte anual del status de las terminales\n                    biométricas instaladas\nActualización de la base de datos del personal\nDar de alta a nuevos empleados de la institución",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "MULTIREDGLOBAL\n _________________________________________________________________\nSUPERVISOR REGIONAL",
+                "description": "instalación diarias usando la base de datos de\n         GRUPO PEPSICO\ncoordinación de todos los departamentos que integran la\n         empresa al igual que un efciente manejo y dirección del\n         personal\ncumplimiento de metas diarias y quincenales para el\n         óptimo desarrollo y distribución del servicio\nRealización de una bitácora de actividades diarias\nRealización del Feedback diario de las actividades realizadas en\n         campo por el técnico y supervisor de la región\nRealizar control de inventario\nControl de Entradas, salidas y reingresos de materiales para\n         instalaciones de PV\nControl de materiales para limpieza de ofcina\nControl de Entradas, salidas y reingresos de Publicidad\n         (PRONOSTICOS)\nAtención a clientes\ninstalación se procede en dar seguimiento al\n         cliente",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "BANSEFI",
+                "description": "preventivo y correctivo al sistema\n           de alarma de los cajeros de las siguientes zonas",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "INEGI DIRECCIÓN REGIONAL",
+                "description": "Instalación de equipos biométricos",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "PROCON",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "MALNOR SISTEMAS SA.DE CV",
+                "description": "Venta de equipo de alarma de seguridad\nVenta de cámaras CCTV\n               \nInstalación de cámaras CCTV en la ofcina de\n                    FONACOT\nInstalación del sistema de alarma con sensores",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "Supervisor de Instalaciones",
+                "place": "MALNOR SISTEMAS",
+                "description": "SUPERVISOR REGIONAL\nINGENIERIA Y PROYECTOS\n\nFONACOT:\n\tVenta de equipo de alarma de seguridad.\n\tVenta de cámaras CCTV\n\tInstalación de cámaras CCTV en la oficina de FONACOT.\n\tInstalación del sistema de alarma con sensores.\n\nINEGI DIRECCIÓN REGIONAL \n\tInstalación de equipos biométricos en INEGI Regional del sureste Mérida Yucatán.\n\tMantenimiento preventivo y correctivo de las terminales.\n\tRealizar reporte semanal de la funcionalidad de cada equipo biométrico.\n\tRealizar reporte anual del status de las terminales biométricas instaladas.\n\tActualización de la base de datos del personal. \n\tDar de alta a nuevos empleados de la institución.\n\nBANSEFI\nSe realiza un servicio de revisión del correcto funcionamiento del sistema de alarmas.\n\nBANJERCITO\nRealizar mantenimiento preventivo y correctivo al sistema de alarma de los cajeros de las siguientes zonas:\n\n\tB.A.M. No. 8 MÉRIDA.\n\tHOSPITAL MILITAR MÉRIDA.\n\tDÉCIMA REGIÓN MÉRIDA.\n\tCAMPO MILITAR 32/A.\n\t9/a ZONA NAVAL YUCALPETÉN.\n\nCNDH\nMantenimiento preventivo de cámaras CCTV.",
+                "salary_range": "5,000 a 10,000",
+                "start_at": "2017-06-01",
+                "end_at": "2019-04-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Ventas TI",
+                "level": "Experto"
+            },
+            {
+                "name": "Gestión de Servicios (IT Service Management)",
+                "level": "Senior"
+            },
+            {
+                "name": "Redes P2P",
+                "level": "Profesional"
+            },
+            {
+                "name": "Diseño Web",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Básico"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "",
+                "place": ""
+            },
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "",
+                "place": ""
+            },
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Sistemas\nMérida Yuc",
+                "place": ""
+            },
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "",
+                "place": ""
+            },
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "",
+                "place": ""
+            },
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Ingenieria en sistemas computacionales.",
+                "place": "Instituto Tecnologico de Merida"
+            },
+            {
+                "kind": "Técnico Superior Universitario",
+                "title": "instalaciones de red",
+                "place": ""
+            },
+            {
+                "kind": "Técnico Superior Universitario",
+                "title": "",
+                "place": ""
+            },
+            {
+                "kind": "Técnico Superior Universitario",
+                "title": "",
+                "place": ""
+            }
+        ],
+        "updated_at": "2019-04-13 22:22:27"
+    },
+    {
+        "id": 17862,
+        "region_id": 9,
+        "region_name": "Ciudad de México",
+        "current_salary": "100,000 a 125,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Director de Proyectos",
+                "place": "Free lancer",
+                "description": "Asesorìa en diseño, desarrollo e implementaciòn de proyectos en diferentes sectores como banca, servicio y entretenimiento, entre otros.",
+                "salary_range": "",
+                "start_at": "2012-08-01",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "Subdirector General de Tecnologías de Información y Comunicación",
+                "place": "Instituto Fonacot",
+                "description": "Actualmente a cargo de la Subdirección General de TIC, llevando la Administración , Planeación y Control del área de Tecnologías de Información y Comunicaciones, formando parte en las decisiones estratégicas del Instituto como miembro del Comité Directivo, a cargo de los proyectos prioritarios del instituto: Core del Negocio (Desarrollos nuevos ,  Mejoras y optimización del mismo a través de nuevos procesos y tecnologías de punta, Cambio de infraestructura tecnológica, Implementación de unidades de tramites y servicios, BI, Credit Scoring, Suite de Riesgos, apoyo en el crecimiento y mantenimiento de oficinas regionales, locales y representaciones, entre otros. )",
+                "salary_range": "175,000 a 200,000",
+                "start_at": "2015-06-08",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "Director de Proyectos",
+                "place": "RL Consultorìa",
+                "description": "Asesorìa en diseño, desarrollo e implementaciòn de proyectos  (TI, Optimizaciòn de procesos, Gestiòn del Cambio),en diferentes sectores como banca, servicio y entretenimiento, entre otros.",
+                "salary_range": "",
+                "start_at": "2012-08-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "Director de Proyectos",
+                "place": "RL Consultoria",
+                "description": "Diseno , desarrollo e implementacion de proyectos de TI,operaciones, optimización de procesos  y gestion del cambio.",
+                "salary_range": "100,000 a 125,000",
+                "start_at": "2018-01-01",
+                "end_at": "",
+                "current_job": 1
+            }
+        ],
+        "skills": [
+            {
+                "name": "Administración de Proyectos",
+                "level": "Experto"
+            },
+            {
+                "name": "Gestión de Procesos de Negocio (BPM)",
+                "level": "Experto"
+            },
+            {
+                "name": "SAP",
+                "level": "Senior"
+            },
+            {
+                "name": "Virtualización de Servidores",
+                "level": "Senior"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Avanzado"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Maestría",
+                "title": "Titulo en Administración de empresas ,Especialidad en MKT y Maestria en Fianzas",
+                "place": "Universidad Anahuac Norte"
+            }
+        ],
+        "updated_at": "2019-04-12 12:25:08"
+    },
+    {
+        "id": 116473,
+        "region_id": 11,
+        "region_name": "Estado de México",
+        "current_salary": "5,000 a 10,000",
+        "birthday": "1991-11-01",
+        "experiences": [
+            {
+                "job": "Radiodifusion",
+                "place": "UNAM",
+                "description": "Desarrollo de banda de frecuencias para radiodifusores, utilización del software Packet Tracer y conexión de routers",
+                "salary_range": "",
+                "start_at": "2015-08-01",
+                "end_at": "2016-02-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Redes P2P",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Intermedio"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Sin Terminar",
+                "title": "sin titulo",
+                "place": "UNAM Facultad de Ingenieria"
+            },
+            {
+                "kind": "Diplomado/Curso",
+                "title": "constancia",
+                "place": "Centro de enseñanza de Lenguas Extranjeras"
+            }
+        ],
+        "updated_at": "2019-04-13 22:15:57"
+    },
+    {
+        "id": 111674,
+        "region_id": 15,
+        "region_name": "Jalisco",
+        "current_salary": "15,000 a 20,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Desarrollador Especializado",
+                "place": "MAVI Comercio Global",
+                "description": "February 2019 – Today \nFull stack Developer in a full time schedule designing and implementing web applications for the organization. Main technologies used are:  \n●\tFrontend: HTML5, CSS, Vue, Vuex, Vuetify, Redux.  \n●\tBackend: C#, .NET, Entity Framework, RESTful Services.  \n●\tDevops: SQL Server, Stored Procedures.  \n●\tOthers: Git, Postman.  \n●\tMethodology: Agile (Scrum)",
+                "salary_range": "15,000 a 20,000",
+                "start_at": "2019-02-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "Desarrollador .net jr",
+                "place": "Msw Tecnologias",
+                "description": "Backend Developer in a full time schedule designing and implementing web applications for the organization. Main technologies used are:  \n●\tBackend: C#, .NET, Entity Framework, RESTful Services.  \n●\tDevops: SQL Server, Stored Procedures.  \n●\tOthers: Git, Postman, SoapUI.  \n●\tMethodology: Agile (Scrum)",
+                "salary_range": "3,000 a 5,000",
+                "start_at": "2018-07-01",
+                "end_at": "2019-02-01",
+                "current_job": 0
+            },
+            {
+                "job": "Internship Software Developer",
+                "place": "Msw Tecnologias",
+                "description": "Full stack Developer in a full time schedule designing and implementing web applications for the organization. Main technologies used are:  \n●\tFrontend: HTML5, CSS, Javascript (JQuery).  \n●\tBackend: C#, .NET, Entity Framework, RESTful Services.  \n●\tDevops: SQL Server, Stored Procedures.  \n●\tOthers: Git, Postman.  \n●\tMethodology: Agile (Scrum)",
+                "salary_range": "1,000 a 3,000",
+                "start_at": "2017-12-01",
+                "end_at": "2018-07-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "C#/Net",
+                "level": "Profesional"
+            },
+            {
+                "name": "Java",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "PHP",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "Javascript",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Intermedio"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Ingeniería en Software",
+                "place": "Universidad de Colima/Facultad de Telemática"
+            }
+        ],
+        "updated_at": "2019-03-02 00:07:05"
+    },
+    {
+        "id": 24162,
+        "region_id": 9,
+        "region_name": "Ciudad de México",
+        "current_salary": "",
+        "birthday": "2015-03-03",
+        "experiences": [
+            {
+                "job": "",
+                "place": "",
+                "description": "",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "Consultor BI",
+                "place": "Intellego",
+                "description": ".",
+                "salary_range": "35,000 a 40,000",
+                "start_at": "2016-11-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "Consultor BI",
+                "place": "INTELLEGO",
+                "description": "Participación en el análisis de requerimientos, desarrollo y mantenimiento de dashboards - KPIs en la herramienta Power BI así como mejoras/ mantenimiento en el proceso de ETL (Microsoft SSIS) para el cliente Celistics. \nProyecto de Margen de Contribución principalmente desarrollando e implementando procesos de ETL en procesos  de negocio de gastos fijos/ variables bajo la herramienta (Microsoft SSIS).",
+                "salary_range": "1,000 a 3,000",
+                "start_at": "2016-11-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "CONSULTOR BI",
+                "place": "DALTUM SYSTEMS",
+                "description": "Análisis de Procesos de Negocio para la implementación de procesos ETL (Microsoft SSIS 2008). Diseño y desarrollo de soluciones de integración de datos entre sistemas de controladores programables (PLC) y SQL Server, desarrollo de lógica de negocio para implementar la reglas de negocio con base la especificación del mapeo de documentos. Pruebas integrales y de usuario",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "COORDINADOR BI",
+                "place": "PRAXIS",
+                "description": "Definición e implementación del gobierno de datos para tableros ejecutivos, para atender los riesgos derivados de la calidad, seguridad y ciclo de vida de los datos, utilizando los procesos y definiendo las políticas, procedimientos, roles, herramientas, arquitectura de datos para las áreas de Inteligencia Comercial y Cobranza, promover el uso de las mejores prácticas con el equipo de trabajo. \nAuditoria de procesos y lineamientos de proveedores externos para la implementación y migración del modelo de datos en DWH/ DM en el proyecto Sumando, validación de requerimientos y diseño del cliente para la implementación",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "CONSULTOR BI",
+                "place": "DEREVO",
+                "description": "Análisis de Requerimientos y desarrollo de soluciones técnicas. Desarrollo de ETL para carga de datos en QlikView, mantenimiento a tableros ejecutivos.",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "CONSULTOR BI",
+                "place": "ATTITUD",
+                "description": "Business Discovery, desarrollando ETL para integración de datos. Implementación de procesos de limpieza y calidad de datos en datos cartográficos utilizando la herramienta Microsoft DQS, implementación de minería de datos utilizando Microsoft  \nMERCEDES VALDEZ MALDONADO \n     Analysis Services (Redes neuronales, Arboles de decisión) pruebas de rendimiento. Migraciones de fuentes de datos. Elaboración de Documentación del proyecto, diccionario de datos, Manual operativo y funcional, control de cambios, gestión de recursos y validación de PoC.",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "BI- TABLEAU",
+                "place": "NARANYA",
+                "description": "Business Discovery y Desarrollo e implementación de soluciones BI. Análisis de procesos de negocio para implementación de ODS. Desarrollo de ETL utilizando Microsoft SSIS para automatización de procesos. Migración de Paquetes DTS 2000 a SQL Server 2008 para la migración y mejoras en el proceso y diseño de datamart utilizando la capa semántica (atributos, hechos y jerarquías). Optimización de procesos. Desarrollo de cubos OLAP.",
+                "salary_range": "1,000 a 3,000",
+                "start_at": "2013-06-01",
+                "end_at": "2014-07-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Data Warehouse",
+                "level": "Senior"
+            },
+            {
+                "name": "Business Intelligence",
+                "level": "Profesional"
+            },
+            {
+                "name": "Integración de Datos y ETL",
+                "level": "Profesional"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Intermedio"
+            }
+        ],
+        "educations": [],
+        "updated_at": "2019-04-13 22:10:08"
+    },
+    {
+        "id": 35177,
+        "region_id": 15,
+        "region_name": "Jalisco",
+        "current_salary": "20,000 a 25,000",
+        "birthday": "1993-12-19",
+        "experiences": [
+            {
+                "job": "Asistente administrativo",
+                "place": "H. Ayuntamiento de Tepic",
+                "description": "Administración y gestión de proyectos, agenda y recursos.",
+                "salary_range": "1,000 a 3,000",
+                "start_at": "2014-09-01",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "Practicante de investigación",
+                "place": "CIDETI",
+                "description": "Prácticas profesionales en investigación del algoritmo Support Vector Machine para clasificación de datos en Machine Learning.",
+                "salary_range": "",
+                "start_at": "2017-02-07",
+                "end_at": "2017-06-23",
+                "current_job": 1
+            },
+            {
+                "job": "ETL Developer",
+                "place": "Wipro Technologies",
+                "description": "Desarrollo de ETL para empresa del sector financiero con Ab Initio y Teradata. Administración de cambios, seguimiento de liberaciones, desarrollo, pruebas y documentación.",
+                "salary_range": "10,000 a 15,000",
+                "start_at": "2017-07-10",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "ETL Developer",
+                "place": "Wipro Limited",
+                "description": "Citibanamex's IPAB and Credit Buro projects\n\nDirect communication with Business Analyst and Testers.\nDeveloping modules to process high-volume data with\nvalidations, ETL process and data quality\nTesting in SIT and UAT environments.\nExperience in DataWarehouse / Business Intelligence.\nAgile/Scrum usage in the projects.\nUsing Teradata, AbInitio, Autosys and Unix environment in\na daily basis.\nManaging of team members.\n\nAdvising, Mentorship and coaching teammates with less experience, through trainings, documentation and day-to-day help, always with a role-model orientatio",
+                "salary_range": "",
+                "start_at": "2017-07-01",
+                "end_at": "",
+                "current_job": 1
+            }
+        ],
+        "skills": [
+            {
+                "name": "Administración de Proyectos",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "Redes Inalámbricas",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "Java",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "Bases de Datos Relacionales",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Intermedio"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Cursando",
+                "title": "Ingeniería en Tecnologías de la Información y Comunicaciones",
+                "place": "Instituto Tecnológico de Tepic"
+            },
+            {
+                "kind": "Certificación",
+                "title": "CCNA R&S: Introduction to Networks",
+                "place": "Cisco Network Academy"
+            },
+            {
+                "kind": "Online",
+                "title": "Introduccion a la Programación Estadística con R",
+                "place": "Coursera - UNAM "
+            },
+            {
+                "kind": "Bachillerato/Media Superior/Preparatoria",
+                "title": "Técnico en Informatica",
+                "place": "Cetis 100"
+            }
+        ],
+        "updated_at": "2019-02-13 10:29:12"
+    },
+    {
+        "id": 117791,
+        "region_id": 22,
+        "region_name": "Querétaro",
+        "current_salary": "25,000 a 30,000",
+        "birthday": "1999-07-04",
+        "experiences": [],
+        "skills": [
+            {
+                "name": "Diseño de Software",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Español",
+                "level": "Lengua Nativa"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Cursando",
+                "title": "Ingenieria en Sistemas Computacionales 4° Semestre",
+                "place": "Instituto Tecnológico de Querétaro"
+            }
+        ],
+        "updated_at": "2019-04-13 21:33:20"
+    },
+    {
+        "id": 41620,
+        "region_id": 19,
+        "region_name": "Nuevo León",
+        "current_salary": "35,000 a 40,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Supervisor Work",
+                "place": "Alliance Specialized Systems",
+                "description": "Supervisar las Instalaciones de los Sistemas\nAplicar el Criterio Operativo para aprobar situaciones tecnicas y economicas del proyecto\nRevisar la Ingenieria del Proyecto y Sañalar cuando se requiera alguna modificacion\nEstablecer y dar seguimiento a controles que garanticen la calidad especificada en el costo previsto Supervisar al Personal Directo y subcontratado \nEstablecer programa de obra interno, en base de la necesidad del proyecto y su fecha de entrega \nDar seguimiento a las peticiones originadas en las revisiones de avance del proyecto \nLlevar el control de entradas y salidas del material del proyecto \nRealizar su trabajo acorde a lo indicado en el Sistema de Gestion de Calidad \nMantener informada a la organizacion de los avances y administrar prioridades y urgencias en obra \nSupervisar la obra civil, mecanica electrica.",
+                "salary_range": "25,000 a 30,000",
+                "start_at": "2015-12-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "Superintendent",
+                "place": "Alliance Specialized Systems",
+                "description": "Supervisar las Instalaciones de los Sistemas\nAplicar el Criterio Operativo para aprobar situaciones tecnicas y economicas del proyecto\nRevisar la Ingenieria del Proyecto y Sañalar cuando se requiera alguna modificacion\nEstablecer y dar seguimiento a controles que garanticen la calidad especificada en el costo previsto Supervisar al Personal Directo y subcontratado \nEstablecer programa de obra interno, en base de la necesidad del proyecto y su fecha de entrega \nDar seguimiento a las peticiones originadas en las revisiones de avance del proyecto \nLlevar el control de entradas y salidas del material del proyecto \nRealizar su trabajo acorde a lo indicado en el Sistema de Gestion de Calidad \nMantener informada a la organizacion de los avances y administrar prioridades y urgencias en obra \nSupervisar la obra civil, mecanica electrica.\n\n       Supervise Systems Facilities\n       Apply the Operating Criteria for approving technical and economic conditions of the project\n       Engineering Project Review and Report when any modification is required\n       Establish and monitor  controls to ensure the quality specified in the expected cost Personal Direct and supervise the outsourced\n       Establish internal work program, based on the need for the project and its delivery date\n       Follow up on requests originated in project progress reviews\n       Take control of inputs and outputs of the project material\n       Perform their work according to what indicated in the Quality Management System\n       Keep the organization informed of the progress and manage priorities and emergencies on site.\n\n",
+                "salary_range": "20,000 a 25,000",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 1
+            }
+        ],
+        "skills": [
+            {
+                "name": "Administración de Proyectos",
+                "level": "Experto"
+            },
+            {
+                "name": "Governance, Risk management, and Compliance",
+                "level": "Experto"
+            },
+            {
+                "name": "Gestión de Procesos de Negocio (BPM)",
+                "level": "Senior"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Avanzado"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Arquitectura",
+                "place": "Universidad Radael Urdaneta"
+            }
+        ],
+        "updated_at": "2019-04-13 21:28:31"
+    },
+    {
+        "id": 117797,
+        "region_id": 9,
+        "region_name": "Ciudad de México",
+        "current_salary": "20,000 a 25,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Desarrollador",
+                "place": "Banco Finterra",
+                "description": "Análisis al requerimiento y definición del diseño técnico\nDesarrollo de los componentes python(.py)\nPruebas e implementación del sistema en ambiente QA y productivo\nCreación de instaladores del sistema (Shells)\nGeneración de Manuales de instalación y usuario\nModificar los servicios existentes de la pieza SIATValNipCvv para\n                                                                   añadir una nueva funcionalidad\nAutomatización de Buzón Bancomer",
+                "salary_range": "20,000 a 25,000",
+                "start_at": "2017-02-01",
+                "end_at": "",
+                "current_job": 1
+            },
+            {
+                "job": "",
+                "place": "Banco Finterra",
+                "description": "Análisis al requerimiento y definición del diseño técnico\nDesarrollo de los componentes python(.py)\nPruebas e implementación del sistema en ambiente QA y productivo\nCreación de instaladores del sistema (Shells)\nGeneración de Manuales de instalación y usuario",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "Bradescard",
+                "description": "Crear configuraciones en File Agent y definir reglas de monitoreo e\n                       identificación de archivos en base a expresiones regulares\nDesarrollo de archivos con extensión .cdp para el manejo de procesos\n                       relacionados al envío y recepción de archivos\nCrear archivos por lotes de windows",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "Banco Finterra",
+                "description": "Análisis al requerimiento y definición del diseño técnico\nDesarrollo de los componentes python(.py)\nDefinición y creación de tablas requeridas por el sistema\nPruebas e implementación del sistema en ambiente QA y productivo\nCreación de instaladores del sistema (Shells)\nGeneración de Manuales de instalación y usuario",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "Desarrollador",
+                "place": "Banco Finterra",
+                "description": "Proporcionar soporte a incidencias de los sistemas del banco\nAtender requerimientos\nAnalizar incidencia\nEncontrar la falla y dar",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "Banco Finterra",
+                "description": "Análisis al requerimiento y definición del diseño técnico\nDesarrollo de los componentes python(.py)\nDefinición y creación de tablas requeridas por el sistema\nPruebas e implementación del sistema en ambiente QA y productivo\nCreación de instaladores del sistema (Shells)\nGeneración de Manuales de instalación y usuario\nEncriptación de estados de cuenta y Web Service\nTecnologías",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            },
+            {
+                "job": "",
+                "place": "ARCOT 3D SECURE",
+                "description": "Estimación y planeación de tareas\nSolicitud de requerimientos a los equipos de desarrollo\nProporcionar insumos e infraestructura de lado del banco para el\nSeguimiento a plan de trabajo\nDocumentación y Requisitos para la implementación en los distintos\nSoporte Sistemas Finterra\n           Tecnologías",
+                "salary_range": "",
+                "start_at": "",
+                "end_at": "",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Shell",
+                "level": "Profesional"
+            },
+            {
+                "name": "Python",
+                "level": "Profesional"
+            },
+            {
+                "name": "Administración de Servidores Unix",
+                "level": "Profesional"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Básico"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "comunicaciones y electrónica                              HABILIDADES Y CONOCIMIENTOS",
+                "place": "Instituto Politécnico\n                                            Nacional"
+            },
+            {
+                "kind": "Técnico Superior Universitario",
+                "title": "informática",
+                "place": "Centro de Bachillerato Tecnológico Industrial y de Servicios No. 59"
+            }
+        ],
+        "updated_at": "2019-04-13 21:23:28"
+    },
+    {
+        "id": 117796,
+        "region_id": 2,
+        "region_name": "Baja California Norte",
+        "current_salary": "10,000 a 15,000",
+        "birthday": "1990-02-08",
+        "experiences": [
+            {
+                "job": "Operador técnico Front End",
+                "place": "Skyworks Solutions de Mexico",
+                "description": "S. de R.L. de C.V.. Septiembre del 2010 Mexicali",
+                "salary_range": "1,000 a 3,000",
+                "start_at": "2010-09-01",
+                "end_at": "2010-12-01",
+                "current_job": 0
+            },
+            {
+                "job": "practicante profesional",
+                "place": "Skyworks Solutions de Mexico",
+                "description": "S. de R.L. de C.V..\nResidencia en área de seguridad e higiene\nRevision de interlocks de maquinaria\nInspeccion de gabinetes químicos\nCaptura de las revisiones anteriormente mencionadas en bases de datos\nElaboracion de presentaciones sobre seguridad e higiene industrial\nElaboracion de layouts de extinguidores\nActualizacion de la cruz de seguridad de Test Building",
+                "salary_range": "1,000 a 3,000",
+                "start_at": "2018-06-01",
+                "end_at": "2018-12-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "C++",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "Bases de Datos Relacionales",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Intermedio"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Ingenieria en sistemas computacionales.",
+                "place": "Instituto Tecnologico de Mexicali"
+            },
+            {
+                "kind": "Bachillerato/Media Superior/Preparatoria",
+                "title": "Tecnico bachiller en productividad industrial",
+                "place": "CONALEP"
+            }
+        ],
+        "updated_at": "2019-04-13 21:10:44"
+    }
+]

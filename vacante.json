@@ -1,0 +1,91 @@
+[
+    {
+        "id": 117198,
+        "region_id": 9,
+        "region_name": "Ciudad de México",
+        "current_salary": "15,000 a 20,000",
+        "birthday": "",
+        "experiences": [
+            {
+                "job": "Ejecutivo de cuentas",
+                "place": "C3NTRO Telecom",
+                "description": "Seguimiento de clientes, elaboración de reportes, revisión de contratos.",
+                "salary_range": "15,000 a 20,000",
+                "start_at": "2018-11-01",
+                "end_at": "2019-03-01",
+                "current_job": 0
+            },
+            {
+                "job": "Analista de compras",
+                "place": "sumproven",
+                "description": "Búsqueda de proveedores, realizar cotizaciones, seguimiento de compras.",
+                "salary_range": "5,000 a 10,000",
+                "start_at": "2014-01-01",
+                "end_at": "2014-12-01",
+                "current_job": 0
+            },
+            {
+                "job": "hostess",
+                "place": "Cafe O",
+                "description": "Administrar reservaciones",
+                "salary_range": "10,000 a 15,000",
+                "start_at": "2017-01-01",
+                "end_at": "2017-05-01",
+                "current_job": 0
+            },
+            {
+                "job": "Imagen de marca",
+                "place": "Freelance",
+                "description": "Presentación de producto, relaciones publicas, traductora, protocolo.",
+                "salary_range": "15,000 a 20,000",
+                "start_at": "2017-06-01",
+                "end_at": "2018-10-01",
+                "current_job": 0
+            }
+        ],
+        "skills": [
+            {
+                "name": "Administración de Proyectos",
+                "level": "Aprendiz"
+            },
+            {
+                "name": "SEO - SEM",
+                "level": "Aprendiz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Inglés",
+                "level": "Nivel Avanzado"
+            }
+        ],
+        "educations": [
+            {
+                "kind": "Maestría",
+                "title": "Maestria en Administración",
+                "place": "Universidad Latinoamericana"
+            },
+            {
+                "kind": "Estudios Universitarios - Titulado",
+                "title": "Ingeniero geólogo",
+                "place": "Universidad de oriente"
+            },
+            {
+                "kind": "Diplomado/Curso",
+                "title": "Marketing Digital",
+                "place": "Digital business academy"
+            },
+            {
+                "kind": "Diplomado/Curso",
+                "title": "Diplomado de ingenieria",
+                "place": "instituto tecnologico superior de poza rica"
+            },
+            {
+                "kind": "Diplomado/Curso",
+                "title": "Ingles",
+                "place": "Education first"
+            }
+        ],
+        "updated_at": "2019-04-13 19:06:13"
+    }
+]
